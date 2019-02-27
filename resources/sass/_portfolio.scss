@@ -259,12 +259,13 @@
 
 // about section
 .about-section {
-    padding: 80px 140px 0 140px;
+    padding: 80px 60px 0 60px;
     max-width: 65vw;
     min-height: 80vh;
     margin: auto;
     .profile {
         max-width: 40%;
+        max-height: 500px;
         float: right;
         padding: 0 30px;
     }
@@ -285,8 +286,8 @@
         padding: 15px;
     }
     .TT-logo, .social-icon {
-        max-width: 120px;
-        max-height: 120px;
+        max-width: 100px;
+        max-height: 80px;
         margin-top: -50px;
     }
     .clickb4it-logo {
@@ -296,12 +297,23 @@
         margin-left: 20px;
         background-color: white;
     }
-    @media (max-width: 580px) {
-        padding: 80px 0;
+    @media (max-width: 1130px) {
+        .links-out li {
+            display: block;
+            padding: 30px 0;        
+        }
         .profile {
-            float: none;
-            width: 100%;
+            width: 300px;
             max-width: 100%;
+            margin: auto;
+        }
+    }
+    @media (max-width: 780px) {
+        padding: 80px 0;
+        max-width: 80vw;
+        .description-text {
+            display: inline-block;
+            padding-top: 20px;
         }
         .links-out {
             padding: 20px;
@@ -366,12 +378,31 @@
 @media (max-width: 1023px) {
     .project-grid {
         grid-template-columns: 50% 50%;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
         border-bottom: 10px solid #141414;
     }
-    .project-item2, .project-item4 {
+    .project-item1 {
+        grid-column: 1;
+        grid-row: span 2;
+    }
+    .project-item2 {
         grid-column: 2;
+        grid-row: 1;
     }
     .project-item3 {
+        grid-column: 2;
+        grid-row: span 2;
+    }
+    .project-item4 {
         grid-column: 1;
+        grid-row: span 2;
+    }
+    .project-item5 {
+        grid-column: 2;
+        grid-row: span 2;
+    }
+    .project-item6 {
+        grid-column: 1;
+        grid-row: 5;
     }
 }
