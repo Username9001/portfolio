@@ -65,14 +65,14 @@
         <h2 class="web-projects-title">Web Development</h2>
         <div class="web-clickb4it">
             <a href="/clickb4it">
-            <img src="/storage/clickb4it_fs.jpg" alt="" class="web-image" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
-            <img src="/storage/clickb4it_mobile.jpg" alt="" class="web-image-mobile" data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
+            <img src="/storage/blank.jpg" data-src="/storage/clickb4it_fs.jpg" alt="" class="lazy web-image" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
+            <img src="/storage/blank.jpg" data-src="/storage/clickb4it_mobile.jpg" alt="" class="lazy web-image-mobile" data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
             </a>
         </div>
         <div class="web-tomstech">
             <a href="/tomstech">
-            <img src="/storage/TomsTech_fs.jpg" alt="" class="web-image" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
-            <img src="/storage/TomsTech_mobile.png" alt="" class="web-image-mobile" data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
+            <img src="/storage/blank.jpg" data-src="/storage/TomsTech_fs.jpg" alt="" class="lazy web-image" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
+            <img src="/storage/blank.jpg" data-src="/storage/TomsTech_mobile.png" alt="" class="lazy web-image-mobile" data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
             </a>
         </div>
     </div>
