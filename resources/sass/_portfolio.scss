@@ -274,15 +274,17 @@
     .links-out {
         text-align: center;
         padding: 20px 0 0 0;
+        margin-top: 50px;
     }
     .links-out li {
         display: inline;
+        padding: 0 5px;
     }
     .links-out .fab, .links-out .fas {
         font-size: 4rem;
         padding: 15px;
     }
-    .TT-logo {
+    .TT-logo, .social-icon {
         max-width: 120px;
         max-height: 120px;
         margin-top: -50px;

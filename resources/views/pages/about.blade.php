@@ -14,31 +14,34 @@
         This is also what initially peaked my interest in web development, making websites to track my study progress and creating simple html pages for this. Last year I took this a step further and started teaching myself to work with php and mysql. This has enabled me to make websites that not only look nice but are functional too. Using this newfound skill I have made a webshop for a fashion designer and a blog for a technology journalist.  And now a portfolio for my own work as well.
     </p>
     <ul class="links-out">
-        <a href="https://www.linkedin.com">
-            <li>
-                <i class="fab fa-linkedin"></i>&nbsp;
-            </li>
-        </a>
-        {{-- <a href="https://500px.com/erikurkurkle">
-            <li>
-                <i class="fab fa-500px"></i>&nbsp;
-            </li>
-        </a> --}}
-        <a href="https://github.com/Username9001">
-            <li>
-                <i class="fab fa-github"></i>&nbsp;
-            </li>
-        </a>
-        <a href="http://188.166.86.75">
-            <li>
+
+        <li>
+            <a href="https://www.linkedin.com">
+                <img class="social-icon" src="/storage/linkedin-brands.svg" alt="github link" style="max-width:90px;">&nbsp;
+            </a>
+        </li>
+    {{-- <a href="https://500px.com/erikurkurkle">
+        <li>
+            <i class="fab fa-500px"></i>&nbsp;
+        </li>
+    </a> --}}
+    
+        <li>
+            <a href="https://github.com/Username9001">
+                <img class="social-icon" src="/storage/github-brands.svg" alt="github link" style="max-width:90px;">&nbsp;&nbsp;
+            </a>
+        </li>
+
+        <li>
+            <a href="http://188.166.86.75">
                 <img src="/storage/TT_logo_grey.png" alt="" class="TT-logo">
-            </li>
-        </a>
-        <a href="http://clickbaitwarez.com/list">
-            <li>
+            </a>
+        </li>
+        <li>
+            <a href="http://clickbaitwarez.com/list">
                 <img src="/storage/clickb4it.png" alt="" class="clickb4it-logo">
-            </li>
-        </a>
+            </a>
+        </li>
     </ul>
 </div>
 @endsection
