@@ -5,7 +5,7 @@
     <h2>About me</h2>
     <img src="/storage/profiel3.jpg" class="profile" alt="">
     <p>
-        I'm a designer from Eindhoven currently doing my bachelor Industrial Design at the Technical University of Eindhoven. Specialized in web development. In my spare time I am a photographer and a bit of a guitarist.
+        I'm a user experience designer from Eindhoven currently doing my bachelor Industrial Design at the Technical University of Eindhoven. Specialized in web development. In my spare time I am a photographer and a bit of a guitarist.
     </p>
     <p>
         In design I focus mainly on physical prototyping and programming. I have a self-directed and flexible mindset thanks to having worked in different multidisciplinary teams over the years at university.

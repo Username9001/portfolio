@@ -3,6 +3,8 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Portfolio of Erik Wubbels, User Experience designer and web developer.">
+        <meta name="theme-color" content="#141414"/>
 
         <title>Erik Wubbels</title>
 
@@ -18,11 +20,11 @@
         <div id="app">
             <div id="navbar" class="navigation">
                 <div class="navbar-logo">
-                    <a href="/"><h1>Erik</h1></a>
+                    <a href="/" name="home"><h1>Erik</h1></a>
                 </div>
                 <ul class="navbar-navigation">
-                    <a href="/#projects"><li>Projects </li></a>
-                    <a href="/about" id="about-toggle"><li>About </li></a>
+                    <li><a href="/#projects" name="projects">Projects </a></li>
+                    <li><a href="/about" id="about-toggle" name="about">About </a></li>
                 </ul>
             </div>
 
@@ -77,7 +79,7 @@
         delay: 60
     });
 
-    typewriter.typeString('I am Erik Wubbels, industrial designer and web developer.')
+    typewriter.typeString('I am Erik Wubbels, user experience designer and web developer.')
         .pauseFor(600)
         .typeString(' Scroll down to view the projects I have worked on. ')
         .pauseFor(600)

@@ -15,27 +15,27 @@ Route::get('/', function () {
     return view('main');
 });
 
-Route::get('/holdie', function () {
+Route::get('/projects/holdie', function () {
     return view('projects.holdie');
 });
 
-Route::get('/helios', function () {
+Route::get('/projects/helios', function () {
     return view('projects.helios');
 });
 
-Route::get('/mugen', function () {
+Route::get('/projects/mugen', function () {
     return view('projects.mugen');
 });
 
-Route::get('/olio', function () {
+Route::get('/projects/olio', function () {
     return view('projects.olio');
 });
 
-Route::get('/escaperoom', function () {
+Route::get('/projects/escaperoom', function () {
     return view('projects.escaperoom');
 });
 
-Route::get('/bfs', function () {
+Route::get('/projects/bfs', function () {
     return view('projects.bfs');
 });
 
