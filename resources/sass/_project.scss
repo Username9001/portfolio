@@ -67,6 +67,12 @@
         padding-top: 42vh;
         padding-left: 3vw;
     }
+    @media (max-width: 580px) {
+        h1 {
+            font-size: 3rem;
+            letter-spacing: 24px;
+        }
+    }
 }
 
 

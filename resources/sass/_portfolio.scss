@@ -84,7 +84,7 @@
     @media (max-width: 580px) {
         padding: 100px 40px;
         blockquote {
-            font-size: 1.4rem;
+            font-size: 1.2rem;
         }
     }
 }
@@ -142,6 +142,10 @@
             margin-top: 0;
             p {
                 font-size: 1rem;
+            }
+            h2 {
+                letter-spacing: 6px;
+                font-size: 1.6rem;
             }
         }
     }
@@ -291,7 +295,12 @@
         background-color: white;
     }
     @media (max-width: 580px) {
-        padding: 20px;
+        padding: 80px 0;
+        .profile {
+            float: none;
+            width: 100%;
+            max-width: 100%;
+        }
         .links-out {
             padding: 20px;
         }

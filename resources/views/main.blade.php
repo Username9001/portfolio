@@ -29,7 +29,7 @@
                     <p>Interactive Lighting Control</p>
                 </div>
             </a>
-            <a href="/mugen" id="mugen-project" class="project-item project-item3" data-aos="fade-down-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
+            <a href="/projects/mugen" id="mugen-project" class="project-item project-item3" data-aos="fade-down-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
                 <div class="text-block">
                     <h2>Mugen</h2>
                     <hr>
