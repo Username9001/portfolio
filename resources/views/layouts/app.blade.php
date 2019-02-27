@@ -46,7 +46,7 @@
     <script type="text/javascript">
         var timer;
 
-        $(window).on('mousemove', function () {
+        $(window).on('mousemove, touchmove', function () {
         $('#navbar').addClass('show');
         try {
             clearTimeout(timer);
