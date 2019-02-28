@@ -34,7 +34,7 @@
                 
             </p>
             <blockquote>
-                "Why won't it work, and why is the server kicking us out over and over again?"
+                "Why won't it respond, and why is the server kicking us out over and over again?"
                 <hr>
                 <span class="bc-span">me, while overloading the server</span>
             </blockquote>

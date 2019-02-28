@@ -3,27 +3,37 @@
 @section('content')
 <div id="about" class="about-section" data-aos="fade-down" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
     <h2>About me</h2>
-    <img src="/storage/profiel4.jpg" class="profile" alt="">
+
     <div class="description-text">
-        <blockquote>
-            "Work hard, play hard."
-            <hr>
-            <span class="bc-span">W. Khalifa</span>
-        </blockquote>
-        <p>
-            I'm a user experience designer from Eindhoven currently doing my bachelor Industrial Design at the Technical University of Eindhoven. Specialized in web development. In my spare time I am a photographer and a bit of a guitarist.
-        </p>      
-        <p>
-            In design I focus mainly on physical prototyping and programming. I have a self-directed and flexible mindset thanks to having worked in different multidisciplinary teams over the years at university.
-        </p>
-        <blockquote>
-            "Why won't it work, and why is the server kicking us out over and over again?"
-            <hr>
-            <span class="bc-span">Me, While Overloading The Servers In Dublin</span>
-        </blockquote>  
-        <p>
-            This is also what initially peaked my interest in web development, making websites to track my study progress and creating simple html pages for this. Last year I took this a step further and started teaching myself to work with php and mysql. This has enabled me to make websites that not only look nice but are functional too. Using this newfound skill I have made a webshop for a fashion designer and a blog for a technology journalist.  And now a portfolio for my own work as well.
-        </p>
+        <div class="block-1">
+            <blockquote class="left-quote">
+                "Work hard, play hard."
+                <hr>
+                <span class="bc-span">W. Khalifa</span>
+            </blockquote>
+            <p>
+                I'm a user experience designer from Eindhoven currently doing my bachelor Industrial Design at the Technical University of Eindhoven. Specialized in web development. In my spare time I am a photographer and a bit of a guitarist.
+            </p>      
+            <p>
+                In design I focus mainly on physical prototyping and programming. I have a self-directed and flexible mindset thanks to having worked in different multidisciplinary teams over the years at university.
+            </p>
+        </div>
+        <div class="block-4">
+            <p class="right">
+                This is also what initially peaked my interest in web development, making websites to track my study progress and creating simple html pages for this. Last year I took this a step further and started teaching myself to work with php and mysql. This has enabled me to make websites that not only look nice but are functional too. Using this newfound skill I have made a webshop for a fashion designer and a blog for a technology journalist.  And now a portfolio for my own work as well.
+            </p>
+        </div>
+        <div class="block-2">
+            <img src="/storage/profiel4.jpg" class="profile" alt="">
+            <blockquote class="right">
+                "Why won't it respond, and why is the server kicking us out over and over again?"
+                <hr>
+                <span class="bc-span">Me, While Overloading The Servers In Dublin</span>
+            </blockquote>  
+        </div>
+        <div class="block-3">
+            <img src="/storage/profiel-extra.jpg" class="profile2" alt="">
+        </div>
     </div>
     <ul class="links-out">
 
@@ -57,13 +67,37 @@
     </ul>
 </div>
 
-<style>
+<style scoped>
+    .description-text {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .block-1 {
+        grid-column: 1;
+        grid-row: 1;
+    }
+    .block-2 {
+        grid-column: 2;
+        grid-row: 1;
+    }
+    .block-3 {
+        grid-column: 1;
+        grid-row: 2;
+    }
+    .block-4 {
+        grid-column: 2;
+        grid-row: 2;
+    }
     blockquote {
-        margin-left: -10%;
+        margin-right: -30%;
         font-style: italic;
         font-size: 2rem;
-        width: 50%;
+        width: 130%;
         line-height: 2.8rem;
+    }
+    .left-quote {
+        margin-right: 0;
+        margin-left: -30%;
     }
     hr {
         margin: 0;
@@ -73,8 +107,49 @@
         width: 65%;
         margin-left: 5%;
         text-transform: capitalize;
-        font-size: 1.2rem;
+        font-size: 1rem;
         font-weight: 300;
+    }
+    @media (max-width: 780px) {
+        #about {
+            max-width: 80%;
+            width: 80%;
+        }
+        .description-text {
+            grid-template-columns: 1fr;
+            grid-gap: 10px;
+        }
+        .block-1, .block-2, .block-3, .block-4 {
+            grid-column: 1;
+        }
+        .block-1 {
+            grid-row: 1;
+        }
+        .block-2 {
+            grid-row: 2;
+        }
+        .block-3 {
+            grid-row: 3;
+        }
+        .block-4 {
+            grid-row: 4;
+        }
+    }
+    @media (max-width: 580px) {
+        #about {
+            max-width: 100%;
+            width: 100%;
+        }
+        blockquote {
+            margin-right: -20%;
+        }
+        .left-quote {
+            margin-left: -14%;
+        }
+    }
+
+    .footer {
+        position: absolute;
     }
 </style>
 
