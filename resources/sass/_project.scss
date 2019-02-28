@@ -43,6 +43,16 @@
             font-style: italic;
             font-size: 2.4rem;
             width: 65%;
+            line-height: 2.8rem;
+            hr {
+                margin: 0;
+            }
+            .bc-span {
+                font-style: italic;
+                width: 65%;
+                margin-left: 5%;
+                text-transform: capitalize;
+            }
         }
         img {
             // float: right;
@@ -98,19 +108,19 @@
     h1 {
         font-family: 'DIN';
         text-transform: uppercase;
-        font-weight: 700;
-        font-size: 5.2rem;
+        font-weight: 400;
+        font-size: 14.2rem;
         color: white;
         letter-spacing: 12px;
         text-shadow: 0 0 3px black;
         text-align: center;
-        padding-top: 42vh;
+        padding-top: 35vh;
         padding-left: 3vw;
     }
     @media (max-width: 580px) {
         h1 {
-            font-size: 3rem;
-            letter-spacing: 24px;
+            font-size: 5.2rem;
+            letter-spacing: 1px;
         }
     }
 }

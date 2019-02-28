@@ -13,15 +13,25 @@
             </div>
             <div class="project-text" id="olio-text">
                 <div class="project-description">
-                    <p >
+                    <blockquote>
+                        "Can an interactive tagging tool change ones be-
+                        haviour and create a feeling of shared responsibility con-
+                        cerning clutter in communal kitchens in student houses?"
+                        <hr>
+                        <span class="bc-span">research question</span>
+                    </blockquote>
+                    <p>
                             This research studies
                             behavioural change within the everyday practices of a shared
                             kitchen with the use of an interactive tool. To narrow down
                             the subject of this research the following question was for-
                             mulated: ’Can an interactive tagging tool change ones be-
                             haviour and create a feeling of shared responsibility con-
-                            cerning clutter in communal kitchens in student houses?’In
-                            answering this question it is hoped to give researchers and
+                            cerning clutter in communal kitchens in student houses?’
+                    </p>
+
+                    <p>
+                            In answering this question it is hoped to give researchers and
                             designers more insight into the everyday practices in com-
                             munal spaces, wherein diverse and opinionated people might
                             share a living space.
@@ -37,6 +47,8 @@
                     </p>
                     <blockquote>
                         "Quote describing awesomeness of Olio..."
+                        <hr>
+                        <span class="bc-span">Person who got quoted</span>
                     </blockquote>
                     <p>
                             A unit can be placed by one of the housemates when they consider that something is messy. If you
@@ -60,6 +72,14 @@
                             a group, which has to this date been underexplored within the
                             field of persuasive HCI. Design implications for behavioural
                             change for an individual within a community are proposed.
+                        </p>
+                        <blockquote>
+                            "Quote from feedback"
+                            <hr>
+                            <span class="bc-span">Feedback person</span>
+                        </blockquote>
+                        <p>
+                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum optio voluptatem voluptatum. Tempore, consequatur! Odit ad saepe modi ratione facilis.
                         </p>
                     </div>
                 </div>

@@ -23,15 +23,27 @@ ob_start("ob_gzhandler");
         
 
     </head>
-    <body>
+    <body class="smooth">
         <div id="app">
             <div id="navbar" class="navigation">
                 <div class="navbar-logo">
                     <a href="/" name="home"><h1>Erik</h1></a>
                 </div>
                 <ul class="navbar-navigation">
-                    <li><a href="/#projects" name="projects">Projects </a></li>
-                    <li><a href="/about" id="about-toggle" name="about">About </a></li>
+                    <li><a href="/about" id="about-toggle">About </a></li>
+                    <li class="dropdown">Projects 
+                        <ul class="dropdown-content">
+                            <li><a href="/projects/holdie">holdie</a></li>
+                            <li><a href="/projects/helios">helios</a></li>
+                            <li><a href="/projects/mugen">mugen</a></li>
+                            <li><a href="/projects/olio">olio</a></li>
+                            <li><a href="/projects/bfs">Formgiving</a></li>
+                            <li><a href="/projects/escaperoom">escape</a></li>
+                            <hr>
+                            <li><a href="/clickb4it">clickb4it</a></li>
+                            <li><a href="/tomstech">TomsTech</a></li>
+                        </ul>
+                    </li>
                 </ul>
             </div>
 
@@ -74,9 +86,13 @@ ob_start("ob_gzhandler");
         try {
             clearTimeout(timer);
         } catch (e) {}
-        timer = setTimeout(function () {
-            $('#navbar').removeClass('show');
-        }, 1800);
+        if($('.dropdown-content').is(':hover')) {
+
+        } else {
+            timer = setTimeout(function () {
+                $('#navbar').removeClass('show');
+            }, 2800);
+        }
         });
     </script>
 
@@ -99,4 +115,12 @@ ob_start("ob_gzhandler");
         .pauseFor(60000)
         .start();
     </script>
+    <script>
+        $(document).ready(function(){
+            $(".dropdown").click(function(){
+            $("#navbar").toggleClass("toggled");
+            });
+        });
+    </script>
+
 </html>

@@ -9,7 +9,7 @@
     transition: 0.5s;
     background: linear-gradient(rgba(0,0,0,0.6), rgba(255, 255, 255, 0));
     color: white;
-    transition: all .5s ease;
+    transition: all 1.5s ease;
     opacity: 0;
     font-family: 'DIN';
     .navbar-logo {
@@ -24,6 +24,31 @@
     .navbar-navigation {
         float: right;
         margin: 10px 0;
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+        .dropdown-content {
+            opacity: 0;
+            z-index: -2000;
+            line-height: 3rem;
+            position: absolute;
+            min-width: 160px;
+            padding: 12px 16px;
+            z-index: 1;
+            transition: 1.2s;
+            background: linear-gradient(rgba(0, 0, 0, 0) 0%, black, rgba(0, 0, 0, 0) 280%);
+            margin-left: -53px;
+            margin-top: -600px;
+            text-align: right;
+        }
+        .dropdown:hover .dropdown-content, .dropdown:focus .dropdown-content {
+            opacity: 1;
+            transition: 1.8s;
+            z-index: 500;
+            margin-top: 0;
+        }
+
     }
     .navbar-navigation li {
         display: inline;
@@ -42,6 +67,7 @@
         height: 100px;
         .navbar-logo h1 {
             margin-top: -6px;
+            font-size: 2.2rem;
         }
         ul {
             list-style-type: none;

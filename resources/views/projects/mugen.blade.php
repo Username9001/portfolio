@@ -11,7 +11,11 @@
             </div>
             <div class="project-text" id="mugen-text">
                 <div class="project-description">
-                    <h2>Temp Titel</h2>
+                    <blockquote>
+                        "It is designed to mimic the natural opening movement of a flower, giving the music a ‘blooming’ aesthetic."
+                        <hr>
+                        <span class="bc-span">S. Suzuki</span>
+                    </blockquote>
                     <p>
                         The Mugen is a speaker that can be rotated around its own axis, providing the
                         user with the freedom to direct the music coming out of the speakers to any
@@ -25,6 +29,11 @@
                         different modes, that are allocated to several magnetic contact points in the
                         corners of the pyramids.
                     </p>
+                    <blockquote>
+                        "Something about the feedback on the rotation"
+                        <hr>
+                        <span class="bc-span">Feedback giver</span>
+                    </blockquote>
                     <img src="/storage/mugen-detail-2.jpg" alt="" class='detail-image'>
                     <span>New span to give detailed description</span>
                     <p>
@@ -32,7 +41,15 @@
                         the closed position. It is completely wireless due to the use of bluetooth and
                         concealed batteries, making it retain its aesthetics without being interrupted by
                         cables or buttons.
-                    </p>                    
+                    </p>
+                    <blockquote>
+                        "You are employee of the month!"
+                        <hr>
+                        <span class="bc-span">P.H.R. Meulendijks</span>
+                    </blockquote>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae ipsam deserunt distinctio consectetur delectus eius similique mollitia eligendi. Nam praesentium ut dignissimos sequi aliquid eius! Hic maxime veniam officia similique?
+                    </p>
 
                 </div>
                 <div class="project-images">

@@ -8,9 +8,19 @@
         <p>
             I'm a user experience designer from Eindhoven currently doing my bachelor Industrial Design at the Technical University of Eindhoven. Specialized in web development. In my spare time I am a photographer and a bit of a guitarist.
         </p>
+        <blockquote>
+            "Why won't it work, and why is the server kicking us out over and over again."
+            <hr>
+            <span class="bc-span">-Myself, While Overloading The Server</span>
+        </blockquote>        
         <p>
             In design I focus mainly on physical prototyping and programming. I have a self-directed and flexible mindset thanks to having worked in different multidisciplinary teams over the years at university.
         </p>
+        <blockquote>
+            "You are employee of the month!"
+            <hr>
+            <span class="bc-span">P.H.R. Meulendijks</span>
+        </blockquote>
         <p>
             This is also what initially peaked my interest in web development, making websites to track my study progress and creating simple html pages for this. Last year I took this a step further and started teaching myself to work with php and mysql. This has enabled me to make websites that not only look nice but are functional too. Using this newfound skill I have made a webshop for a fashion designer and a blog for a technology journalist.  And now a portfolio for my own work as well.
         </p>
@@ -34,7 +44,7 @@
             </a>
         </li>
 
-        <li>
+        {{-- <li>
             <a href="http://188.166.86.75">
                 <img src="/storage/TT_logo_grey.png" alt="" class="TT-logo">
             </a>
@@ -43,7 +53,29 @@
             <a href="http://clickbaitwarez.com/list">
                 <img src="/storage/clickb4it.png" alt="" class="clickb4it-logo">
             </a>
-        </li>
+        </li> --}}
     </ul>
 </div>
+
+<style>
+    blockquote {
+        margin-left: -10%;
+        font-style: italic;
+        font-size: 2rem;
+        width: 50%;
+        line-height: 2.8rem;
+    }
+    hr {
+        margin: 0;
+    }
+    .bc-span {
+        font-style: italic;
+        width: 65%;
+        margin-left: 5%;
+        text-transform: capitalize;
+        font-size: 1.2rem;
+        font-weight: 300;
+    }
+</style>
+
 @endsection
