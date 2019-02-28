@@ -20,7 +20,6 @@
             display: grid;
         }
         p {
-            text-align: justify;
             padding: 30px 20px;
             letter-spacing: 1px;
             line-height: 1.8rem;
@@ -39,7 +38,8 @@
         }
         img {
             // float: right;
-            width: 100%;
+            width: 80%;
+            margin-left: 20%;
             height: auto;
             padding: 20px 0;
         }
@@ -52,7 +52,12 @@
             padding: 10px 0;
             p {
                 width: 100%;
+                max-width: 100%;
                 margin: 0;
+            }
+            img {
+                width: 130%;
+                margin-left: -15%;
             }
         }
     }

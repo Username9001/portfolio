@@ -3,7 +3,7 @@
 @section('content')
 <div id="about" class="about-section" data-aos="fade-down" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
     <h2>About me</h2>
-    <img src="/storage/profiel3.jpg" class="profile" alt="">
+    <img src="/storage/profiel4.jpg" class="profile" alt="">
     <div class="description-text">
         <p>
             I'm a user experience designer from Eindhoven currently doing my bachelor Industrial Design at the Technical University of Eindhoven. Specialized in web development. In my spare time I am a photographer and a bit of a guitarist.
