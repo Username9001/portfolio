@@ -15,10 +15,17 @@
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic quae eaque eligendi vitae quis? Quasi sed optio totam aliquid quisquam molestiae, officiis, ab ipsam suscipit dignissimos repudiandae illo incidunt deleniti!</p>
                 <img src="/storage/clickb4it_fs.jpg" alt="" class='detail-image'>
                 <span>clickbaitwarez.com webshop</span>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic quae eaque eligendi vitae quis? Quasi sed optio totam aliquid quisquam molestiae, officiis, ab ipsam suscipit dignissimos repudiandae illo incidunt deleniti!</p>
-                <img src="/storage/clickb4it_fs.jpg" alt="" class='detail-image'>
-                <span>Running Laravel, with integrated mollie payments and content management system</span>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic quae eaque eligendi vitae quis? Quasi sed optio totam aliquid quisquam molestiae, officiis, ab ipsam suscipit dignissimos repudiandae illo incidunt deleniti!</p>
+                <img src="/storage/screenshots/CB_product.png" alt="" class='detail-image'>
+                <span>clickbaitwarez.com individual product page</span>
+                <img src="/storage/screenshots/CB_cart.png" alt="" class='detail-image'>
+                <span>clickbaitwarez.com shopping cart page</span>
+                <p>
+                    clickbaitwarez.com is a lightweight webshop
+                </p>
+
+                <p>
+                    
+                </p>
             </div>
         </div>
     </div>
@@ -26,6 +33,9 @@
         .project-header h1 {
             font-size: 4.6rem;
             padding: 0;
+        }
+        .project-description span {
+            margin-bottom: 40px;
         }
         @media (max-width: 780px) {
             .project-header h1 {

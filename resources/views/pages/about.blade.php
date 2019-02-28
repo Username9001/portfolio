@@ -5,22 +5,22 @@
     <h2>About me</h2>
     <img src="/storage/profiel4.jpg" class="profile" alt="">
     <div class="description-text">
+        <blockquote>
+            "Work hard, play hard."
+            <hr>
+            <span class="bc-span">W. Khalifa</span>
+        </blockquote>
         <p>
             I'm a user experience designer from Eindhoven currently doing my bachelor Industrial Design at the Technical University of Eindhoven. Specialized in web development. In my spare time I am a photographer and a bit of a guitarist.
-        </p>
-        <blockquote>
-            "Why won't it work, and why is the server kicking us out over and over again."
-            <hr>
-            <span class="bc-span">-Myself, While Overloading The Server</span>
-        </blockquote>        
+        </p>      
         <p>
             In design I focus mainly on physical prototyping and programming. I have a self-directed and flexible mindset thanks to having worked in different multidisciplinary teams over the years at university.
         </p>
         <blockquote>
-            "You are employee of the month!"
+            "Why won't it work, and why is the server kicking us out over and over again?"
             <hr>
-            <span class="bc-span">P.H.R. Meulendijks</span>
-        </blockquote>
+            <span class="bc-span">Me, While Overloading The Servers In Dublin</span>
+        </blockquote>  
         <p>
             This is also what initially peaked my interest in web development, making websites to track my study progress and creating simple html pages for this. Last year I took this a step further and started teaching myself to work with php and mysql. This has enabled me to make websites that not only look nice but are functional too. Using this newfound skill I have made a webshop for a fashion designer and a blog for a technology journalist.  And now a portfolio for my own work as well.
         </p>

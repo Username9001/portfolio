@@ -24,6 +24,8 @@
         "vue-template-compiler": "^2.6.7"
     },
     "dependencies": {
-        "laravel-mix-purgecss": "^4.1.0"
+        "@glidejs/glide": "^3.2.6",
+        "laravel-mix-purgecss": "^4.1.0",
+        "siema": "^1.5.1"
     }
 }

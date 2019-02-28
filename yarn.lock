@@ -609,6 +609,11 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
+"@glidejs/glide@^3.2.6":
+  version "3.2.6"
+  resolved "https://registry.yarnpkg.com/@glidejs/glide/-/glide-3.2.6.tgz#c73e9016543ea3206b3f03c66ed5333823882f18"
+  integrity sha512-yjXI5icEpjvowbiUVjtG//CfqWLcp/mtvlC52ZxKsjBz1jVjkaFrl0W7suVEg6Yw30fR/nO7MSSmzOa9ULniwg==
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -5621,6 +5626,11 @@ shellwords@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/shellwords/-/shellwords-0.1.1.tgz#d6b9181c1a48d397324c84871efbcfc73fc0654b"
   integrity sha512-vFwSUfQvqybiICwZY5+DAWIPLKsWO31Q91JSKl3UYv+K5c2QRPzn0qzec6QPu1Qc9eHYItiP3NdJqNVqetYAww==
+
+siema@^1.5.1:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/siema/-/siema-1.5.1.tgz#eff312b77e8340fa4d81d5d053ebbeb9113ff888"
+  integrity sha1-7/MSt36DQPpNgdXQU+u+uRE/+Ig=
 
 signal-exit@^3.0.0:
   version "3.0.2"

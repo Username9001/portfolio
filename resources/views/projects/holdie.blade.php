@@ -11,6 +11,13 @@
     </div>
 
     <div class="project-text" id="holdie-text">
+        <ul class="team">
+            {{-- <li>Team:</li> --}}
+            <li>T. de Jong&nbsp;|&nbsp;</li>
+            <li>B. Muntinga&nbsp;|&nbsp;</li>
+            <li>S. Teekens&nbsp;|&nbsp;</li>
+            <li>E.Y. Wubbels</li>
+        </ul>
         <div class="project-description">
             {{-- <h2>Project Description</h2> --}}
             <blockquote>
@@ -22,7 +29,7 @@
             <span>Detail of Holdie the pencil holder</span>
             <h2>Approach</h2>
             <p>
-                    We decided to create a bugged pencilholder named Holdie. Holdie is long
+                    We created a bugged pencilholder named Holdie. Holdie is long
                     forgotten, covered in dust on your desk, overwhelmed by modern technology.
                     While all he wants is to love, to be loved and to get a bit of attention every
                     now and then. 
@@ -39,7 +46,17 @@
             </p>
             <img src="/storage/holdie-header.jpg" alt="" class='detail-image'>
             <span>More detail description</span>
-
+            <p>
+                More description about the design process and multiple iterations of the form of Holdie
+            </p>
+            <p>
+                Description part about how the technology works and makes itself noticable.
+            </p>
+            <blockquote>
+                "Quote about Holdie getting someone throwing their laptops away and becoming a writer"
+                <hr>
+                <span class="bc-span">1st year student</span>
+            </blockquote>
         </div>
     </div>
 </div>

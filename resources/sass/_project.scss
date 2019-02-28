@@ -13,11 +13,24 @@
         // transform: translateZ(0);
     }
     .project-text {
-        padding: 20px 50px;
+        padding: 0 50px;
         width: 80vw;
         margin: auto;
         .project-description {
             display: grid;
+            // margin-top: 60px;
+        }
+        .team {
+            font-family: "DIN";
+            font-weight: 300;
+            font-style: italic;
+            letter-spacing: 1px;
+            text-align: right;
+            padding-top: 2px;
+            font-size: 1.1rem;
+        }
+        .team li {
+            display: inline;
         }
         p {
             padding: 30px 20px;
@@ -199,8 +212,6 @@
         padding-bottom: 50px;
     }
 }
-
-
 
 scroll-down {
     opacity: 1;

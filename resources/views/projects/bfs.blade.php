@@ -11,6 +11,9 @@
         <a href="#bfs-text" class="scroll-down"></a>
     </div>
     <div class="project-text" id="bfs-text">
+        <ul class="team">
+            <li>E.Y. Wubbels</li>
+        </ul>
         <div class="project-description">
             <blockquote>
                 "Let's go make something cool!"

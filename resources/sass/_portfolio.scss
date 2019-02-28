@@ -118,7 +118,7 @@
 // project grid
 .id-projects-title, .web-projects-title {
     margin: 10px auto 0 auto;
-    padding: 5px;
+    padding: 60px 5px 5px 5px;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -192,8 +192,7 @@
     background-size: cover;
     transition: background-color 0.6s linear;
     &:hover {
-        background-color: rgba(200,200,200,0.7);
-        background:  url("/storage/holdie-header.jpg");
+        background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.2) 100%), url("/storage/holdie-header.jpg");
         background-position: center;
         background-size: cover;
         transition: background-color 0.6s linear;
@@ -207,7 +206,7 @@
     background-size: cover;
     transition: background-color 0.6s linear;
     &:hover {
-        background: rgba(200,200,200,0.7) url("/storage/helios-header.jpg");
+        background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.2) 100%), url("/storage/helios-header.jpg");
         background-position: center;
         background-size: cover;
         transition: background-color 0.6s linear;
@@ -221,7 +220,7 @@
     background-size: cover;
     transition: background-color 0.6s linear;
     &:hover {
-        background: rgba(200,200,200,0.7) url("/storage/mugen-header.jpg");
+        background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.2) 100%), url("/storage/mugen-header.jpg");
         background-position: center;
         background-size: cover;
         transition: background-color 0.6s linear;
@@ -235,7 +234,7 @@
     background-size: cover;
     transition: background-color 0.6s linear;
     &:hover {
-        background: rgba(200,200,200,0.7) url("/storage/olio-header.jpg");
+        background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.2) 100%), url("/storage/olio-header.jpg");
         background-position: center;
         background-size: cover;
         transition: background-color 0.6s linear;
@@ -249,7 +248,7 @@
     background-size: cover;
     transition: background-color 0.6s linear;
     &:hover {
-        background: rgba(200,200,200,0.7) url("/storage/bfs-header.jpg");
+        background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.2) 100%), url("/storage/bfs-header.jpg");
         background-position: center;
         background-size: cover;
         transition: background-color 0.6s linear;
@@ -263,7 +262,7 @@
     background-size: cover;
     transition: background-color 0.6s linear;
     &:hover {
-        background: rgba(200,200,200,0.7) url("/storage/escaperoom-header.jpg");
+        background: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,0.2) 100%), url("/storage/escaperoom-header.jpg");
         background-position: center;
         background-size: cover;
         transition: background-color 0.6s linear;

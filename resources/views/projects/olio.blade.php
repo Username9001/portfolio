@@ -12,66 +12,57 @@
                 <a href="#olio-text" class="scroll-down"></a>
             </div>
             <div class="project-text" id="olio-text">
+                <ul class="team">
+                    <li>E. Disbergen&nbsp;|&nbsp;</li>
+                    <li>L. Stavenuiter&nbsp;|&nbsp;</li>
+                    <li>E.Y. Wubbels</li>
+                </ul>
                 <div class="project-description">
                     <blockquote>
-                        "Can an interactive tagging tool change ones be-
-                        haviour and create a feeling of shared responsibility con-
-                        cerning clutter in communal kitchens in student houses?"
+                        "Can an interactive tagging tool change behaviour and create a feeling of shared responsibility concerning clutter in communal kitchens in student houses?"
                         <hr>
                         <span class="bc-span">research question</span>
                     </blockquote>
                     <p>
-                            This research studies
-                            behavioural change within the everyday practices of a shared
-                            kitchen with the use of an interactive tool. To narrow down
-                            the subject of this research the following question was for-
-                            mulated: ’Can an interactive tagging tool change ones be-
-                            haviour and create a feeling of shared responsibility con-
-                            cerning clutter in communal kitchens in student houses?’
+                        This research studies
+                        behavioural change within the everyday practices of a shared
+                        kitchen using an interactive tool. The research question reads:
+                        <i>"Can an interactive tagging tool change ones behaviour and create a feeling of shared responsibility 
+                        concerning clutter in communal kitchens in student houses?"</i>
                     </p>
 
                     <p>
-                            In answering this question it is hoped to give researchers and
-                            designers more insight into the everyday practices in com-
-                            munal spaces, wherein diverse and opinionated people might
-                            share a living space.
+                        In answering this question we looked into everyday practice in communal spaces. 
+                        Assuming there would be diverse and opinionated people in student houses, 
+                        it was chosen as the research environment.
                     </p>
                     <img src="/storage/olio-detail.jpg" alt="" class='detail-image' />
                     <span>Span detailing the Olio research</span>
                     <p>
-                            Olio is a social persuasive system, meant to trigger commu-
-                            nication and behavioural change in cleaning up of individuals
-                            in the context of student households. The system consists out
-                            of six units that was designed to be used as a tag for mess in
-                            communal spaces. 
+                        Olio is a social persuasive system, meant to trigger communication
+                        and behavioural change in cleaning up of individuals
+                        in the context of student households. The tool consists out
+                        of six individual tokens. Designed to be used as a tagging system for mess in
+                        communal spaces. 
                     </p>
                     <blockquote>
-                        "Quote describing awesomeness of Olio..."
+                        "Quote from an annoyed participant, complaining about their roommates"
                         <hr>
                         <span class="bc-span">Person who got quoted</span>
                     </blockquote>
                     <p>
-                            A unit can be placed by one of the housemates when they consider that something is messy. If you
-                            are the one being tagged it is your duty to clean it up and be-
-                            come more aware of how your mess influences the daily life
-                            of your housemates. The engagement with Olio is designed
-                            to fit in the everyday practices of student life, with the inten-
-                            tion to create a shared feeling of responsibility towards clutter
-                            and to become an easier topic to talk about.
+                        A token is placed by one of the participants when they consider something messy. 
+                        It then is expected that the tagged participant will adjust their behaviour within the communal space.
+                        The system is easy to use and relatively unobtrusive on it's own. 
+                        This however changes when the particpants start to use it.
                     </p>
                     <img src="/storage/olio-detail-2.jpg" alt="" class='detail-image'/>
                     <span>Span detailing the Olio research</span>
                         <p>
-                            Olio was tested by deploying Olio in two different student households with a
-                            total of 12 participants for four weeks. It was measured by
-                            observations and regular semi structured interviews with the
-                            participants individually and in a group setting. Results of the
-                            deployment show an increase of awareness of the mess being
-                            made and a trigger of discussions within the group about clut-
-                            ter. With Olio, we also explore the individual change within
-                            a group, which has to this date been underexplored within the
-                            field of persuasive HCI. Design implications for behavioural
-                            change for an individual within a community are proposed.
+                            Olio was tested in two different student households with a
+                            total of twelve participants for four weeks. It was measured by
+                            observations from the participants and communicated through 
+                            individual and group interviews.
                         </p>
                         <blockquote>
                             "Quote from feedback"
@@ -79,7 +70,8 @@
                             <span class="bc-span">Feedback person</span>
                         </blockquote>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Earum optio voluptatem voluptatum. Tempore, consequatur! Odit ad saepe modi ratione facilis.
+                            The results show an increase in awareness of the mess being
+                            made and showed Olio as a trigger of discussions within the group about clutter.
                         </p>
                     </div>
                 </div>
