@@ -21,27 +21,45 @@
         }
         p {
             padding: 30px 20px;
-            letter-spacing: 1px;
-            line-height: 1.8rem;
-            font-weight: 300;
+            line-height: 2.2rem;
+            font-size: 1.2rem;
+            font-weight: 400;
             max-width: 50%;
             margin-left: 20%;
         }
         h2 {
+            font-family: 'DIN';
             text-transform: uppercase;
-            text-align: center;
             letter-spacing: 8px;
             font-weight: 600;
+            line-height: 1.4em;
             width: 50%;
-            margin: auto;
-            padding: 15px 20px 0 20px;
+            margin-left: 20%;
+            margin-bottom: -20px;
+            padding: 0;
+        }
+        blockquote {
+            margin-left: 5%;
+            font-style: italic;
+            font-size: 2.4rem;
+            width: 65%;
         }
         img {
             // float: right;
             width: 80%;
             margin-left: 20%;
             height: auto;
-            padding: 20px 0;
+            padding: 0;
+        }
+        span {
+            margin-left: 20%;
+            font-family: 'Source Sans Pro';
+            font-style: italic;
+            letter-spacing: 1px;
+            font-size: 1.1rem;
+            font-weight: 300;
+            padding-top: 5px;
+            text-align: right;
         }
         .fa-code {
             font-size: 2.2rem;
@@ -55,9 +73,23 @@
                 max-width: 100%;
                 margin: 0;
             }
+            h2 {
+                width: 100%;
+            }
+            blockquote {
+                margin-left: -10%;
+                width: 120%;
+                font-size: 2.2rem;
+            }
             img {
                 width: 130%;
                 margin-left: -15%;
+            }
+            span {
+                margin: 0;
+                text-align: right;
+                width: 110%;
+                padding-bottom: 10px;
             }
         }
     }
@@ -67,9 +99,9 @@
         font-family: 'DIN';
         text-transform: uppercase;
         font-weight: 700;
-        font-size: 3.8rem;
+        font-size: 5.2rem;
         color: white;
-        letter-spacing: 36px;
+        letter-spacing: 12px;
         text-shadow: 0 0 3px black;
         text-align: center;
         padding-top: 42vh;

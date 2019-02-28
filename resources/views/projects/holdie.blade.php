@@ -16,7 +16,8 @@
             <p>
                 Bug an object without adding new functionality to it. It should maintain it’s original purpose, while getting a character that people can bond and interact with.
             </p>
-            <img src="/storage/holdie-detail.jpg" alt="" class='detail-image'>
+            <img src="/storage/holdie-detail.jpg" alt="" class='detail-image'/>
+            <span>Detail of Holdie the pencil holder</span>
             <h2>Approach</h2>
             <p>
                     We decided to create a bugged pencilholder named Holdie. Holdie is long
@@ -27,6 +28,7 @@
                     this warm feeling from within and shows his love to you.
             </p>
             <img src="/storage/holdie-header.jpg" alt="" class='detail-image'>
+            <span>More detail description</span>
 
         </div>
     </div>

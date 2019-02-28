@@ -27,13 +27,19 @@
                             share a living space.
                     </p>
                     <img src="/storage/olio-detail.jpg" alt="" class='detail-image' />
+                    <span>Span detailing the Olio research</span>
                     <p>
                             Olio is a social persuasive system, meant to trigger commu-
                             nication and behavioural change in cleaning up of individuals
                             in the context of student households. The system consists out
                             of six units that was designed to be used as a tag for mess in
-                            communal spaces. A unit can be placed by one of the house-
-                            mates when they consider that something is messy. If you
+                            communal spaces. 
+                    </p>
+                    <blockquote>
+                        "Quote describing awesomeness of Olio..."
+                    </blockquote>
+                    <p>
+                            A unit can be placed by one of the housemates when they consider that something is messy. If you
                             are the one being tagged it is your duty to clean it up and be-
                             come more aware of how your mess influences the daily life
                             of your housemates. The engagement with Olio is designed
@@ -41,8 +47,8 @@
                             tion to create a shared feeling of responsibility towards clutter
                             and to become an easier topic to talk about.
                     </p>
-                    <div>
                     <img src="/storage/olio-detail-2.jpg" alt="" class='detail-image'/>
+                    <span>Span detailing the Olio research</span>
                         <p>
                             Olio was tested by deploying Olio in two different student households with a
                             total of 12 participants for four weeks. It was measured by

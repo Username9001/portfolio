@@ -16,6 +16,7 @@
                 I am able to make shapes out of materials.
             </p>
             <img src="/storage/bfs-detail.jpg" alt="" class='detail-image'>
+            <span>Socket based on cube & sphere</span>
             <p>
                 Shaping things in shapes is fun.
             </p>

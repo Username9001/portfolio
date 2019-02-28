@@ -19,6 +19,7 @@
                 Escape the evil cyborgs in this escape room adventure.
             </p>
             <img src="/storage/escaperoom-header.jpg" alt="" class='detail-image'>
+            <span>Span describing the escape room and use of OOCSI</span>
             <p>
                 This escape room was part of a bigger game containing multiple escape rooms.
                 The tokens and minigames that were part of this game were carried out by using the tools that we supplied and programmed.
