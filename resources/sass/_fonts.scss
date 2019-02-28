@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'DIN';
+  src: url('/storage/DIN.woff2') format('woff2'),
+      url('/storage/DIN.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 /* cyrillic-ext */
 @font-face {
   font-family: 'Source Sans Pro';

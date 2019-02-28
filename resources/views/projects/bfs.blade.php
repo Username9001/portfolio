@@ -12,13 +12,16 @@
     </div>
     <div class="project-text" id="bfs-text">
         <div class="project-description">
-            <p>During this course I have practised my formgiving skills</p>
+            <p>
+                I am able to make shapes out of materials.
+            </p>
             <img src="/storage/bfs-detail.jpg" alt="" class='detail-image'>
             <p>
-                
+                Shaping things in shapes is fun.
             </p>
             <p>
-                If one of the areas is occupied and already controlled you will see this through the lighting in the panel itself. 
+                This socket is the combination of two essential spacial shapes, the cube and the sphere.
+                Made robust to withstand the clumsiness people experience when plugging their electronics in sockets.
             </p>
         </div>
     </div>

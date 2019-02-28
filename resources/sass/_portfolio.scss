@@ -11,13 +11,12 @@
     color: white;
     transition: all .5s ease;
     opacity: 0;
-
+    font-family: 'DIN';
     .navbar-logo {
         padding: auto;
         float: left;
         h1 {
-            font-family: 'Source Sans Pro';
-            font-weight: 600;
+            font-weight: 700;
             font-size: 2.5rem;
             letter-spacing: 4px;
         }
@@ -32,7 +31,7 @@
         padding: 0 2px;
         text-transform: uppercase;
         letter-spacing: 6px;
-        font-weight: 700;
+        font-weight: 400;
     }
     @media (max-width: 980px) {
         padding: 1.4rem 3rem;
@@ -92,15 +91,19 @@
 // project grid
 .id-projects-title, .web-projects-title {
     margin: 10px auto 0 auto;
-    padding: 30px;
+    padding: 5px;
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: 6px;
+    letter-spacing: 4px;
     font-size: 1.8rem;
-    font-weight: 600;
+    font-family: Din;
+    font-weight: 400;
     @media (max-width: 580px) {
         padding: 20px;
     }
+}
+.web-projects-title {
+    margin: -5px auto;
 }
 .project-grid {
     display: grid;
@@ -113,27 +116,31 @@
     border-radius: 0;
     display: flex;
     // height: 240px;
-    padding: 50px 50px 20px 50px;
+    padding: 50px 50px 5px 5px;
     border: 12px solid #141414;
     .text-block {
         color: white;
         margin-top: auto;
-        height: 140px;
-        padding-top: 20px;
+        min-height: 180px;
+        padding-top: 105px;
         vertical-align: bottom;
+        margin-left: 10px;
         h2 {
-            font-weight: 700;
             text-transform: uppercase;
-            letter-spacing: 8px;
+            letter-spacing: 2px;
+            font-family: Din;
+            font-weight: 400;
+            font-size: 1.6rem;
         }
         p {
-            text-transform: uppercase;
-            font-weight: 700;
-            letter-spacing: 4px;
+            font-weight: 400;
+            letter-spacing: 2px;
             margin-bottom: 0;
         }
         hr {
             border-top: 2px solid white;
+            margin: 0 -2px 0 0;
+            width: calc(100% - 2px);
         }
     }
     @media (max-width: 580px) {

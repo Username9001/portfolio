@@ -16,11 +16,13 @@
     <div class="project-text" id="escaperoom-text">
         <div class="project-description">
             <p>
-                Holdie seems like a regular pencil holder. Though when you almost forgot about it, it will remind you that it’s still around by shaking and lighting up to grab your attention.
+                Escape the evil cyborgs in this escape room adventure.
             </p>
             <img src="/storage/escaperoom-header.jpg" alt="" class='detail-image'>
             <p>
-                Through capacitive sensors in the double bottom of the pencil holder it registers the last time someone was using it. If it hasn’t been used for over a day it reminds you to leave your laptop and do some writing instead by grabbing your attention.
+                This escape room was part of a bigger game containing multiple escape rooms.
+                The tokens and minigames that were part of this game were carried out by using the tools that we supplied and programmed.
+                These tools work together on the OOCSI network, where they can communicate and let the players have a constant thread running through the areas.
             </p>
         </div>
     </div>

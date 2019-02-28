@@ -28,7 +28,7 @@
                         By rotating the speakers outwards, the volume increases. Rotate them inwards and the music eventually stops, when you reach
                         the closed position. It is completely wireless due to the use of bluetooth and
                         concealed batteries, making it retain its aesthetics without being interrupted by
-                        any sort of cable or button.
+                        cables or buttons.
                     </p>                    
 
                 </div>
