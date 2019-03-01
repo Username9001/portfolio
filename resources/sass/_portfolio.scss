@@ -118,7 +118,7 @@
 // project grid
 .id-projects-title, .web-projects-title {
     margin: 10px auto 0 auto;
-    padding: 60px 5px 5px 5px;
+    padding: 30px 5px 25px 5px;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -272,6 +272,7 @@
 // Web Development section
 .web-development {
     max-width: 100%;
+    width: 1280px;
     height: auto;
     margin: auto;
     .web-clickb4it, .web-tomstech {
@@ -288,6 +289,8 @@
         padding: 20px 0;
         margin: auto auto auto 40px;
     }
+    // Wireframe Devices
+    
 }
 
 // about section

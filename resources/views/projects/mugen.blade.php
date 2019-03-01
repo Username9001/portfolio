@@ -11,7 +11,7 @@
             </div>
             <div class="project-text" id="mugen-text">
                 <ul class="team">
-                    <li>P. de Koning&nbsp;|&nbsp;</li>
+                    <li>P.J.M de Koning&nbsp;|&nbsp;</li>
                     <li>P.H.R. Meulendijks&nbsp;|&nbsp;</li>
                     <li>S. Suzuki&nbsp;|&nbsp;</li>
                     <li>E.Y. Wubbels</li>
@@ -27,8 +27,8 @@
                         user with the freedom to direct the music coming out of the speakers to any
                         direction they want. 
                     </p>
-                    <img src="/storage/mugen-detail.jpg" alt="" class='detail-image'>
-                    <span>Mugen detail description</span>
+                    <img src="/storage/mugen-detail-6.jpg" alt="" class='detail-image'>
+                    <span>Mugen first iteration</span>
                     <p>
                         It is designed to mimic the natural opening movement of
                         a flower, giving the music a ‘blooming’ aesthetic. This is configured by using
@@ -40,7 +40,7 @@
                         <hr>
                         <span class="bc-span">Feedback giver</span>
                     </blockquote>
-                    <img src="/storage/mugen-detail-2.jpg" alt="" class='detail-image'>
+                    <img src="/storage/mugen-detail-4.jpg" alt="" class='detail-image'>
                     <span>New span to give detailed description</span>
                     <p>
                         By rotating the speakers outwards, the volume increases. Rotate them inwards to close and the music eventually stops.
@@ -53,7 +53,19 @@
                         <hr>
                         <span class="bc-span">P.H.R. Meulendijks</span>
                     </blockquote>
-
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil voluptatem quos dolorem dolorum at molestiae earum laboriosam tenetur doloremque accusamus incidunt culpa nulla quo, vitae fugit! Tempore, rerum obcaecati soluta, nihil quia ipsam adipisci placeat delectus quam, aperiam inventore similique.
+                    </p>
+                    <img src="/storage/mugen-detail-5.png" alt="" class='detail-image' style="filter:invert(100%)">
+                    <span>Custom printed circuit board layout for Mugen controller</span>
+                    <p>
+                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem ut ad nihil doloribus eveniet quibusdam, quaerat neque dicta recusandae provident ex consectetur maiores sequi est porro eligendi non doloremque tempore!
+                    </p>
+                    <p>
+                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, illo quibusdam nesciunt culpa consequatur esse laudantium voluptatibus id blanditiis quaerat.
+                    </p>
+                    <img src="/storage/mugen-detail.jpg" alt="" class='detail-image'>
+                    <span>Mugen being used during a bbq</span>
                 </div>
                 <div class="project-images">
 

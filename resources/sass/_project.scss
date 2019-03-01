@@ -72,8 +72,9 @@
             width: 80%;
             margin-left: 20%;
             height: auto;
-            padding: 0;
+            padding: 10px;
         }
+        
         span {
             margin-left: 20%;
             font-family: 'Source Sans Pro';
@@ -86,6 +87,20 @@
         }
         .fa-code {
             font-size: 2.2rem;
+        }
+
+        .shift-left {
+            margin-left: -10%;
+        }
+
+        @media (max-width: 580px) {
+            .detail-image {
+                margin-left: 0!important;
+                widows: 100%!important;
+            }
+            .shift-left {
+                margin-left: 0;
+            }
         }
     }
     @media (max-width: 580px) {
@@ -105,7 +120,7 @@
                 font-size: 2.2rem;
             }
             img {
-                width: 130%;
+                width: 100%;
                 margin-left: -15%;
             }
             span {
@@ -125,7 +140,6 @@
         font-size: 14.2rem;
         color: white;
         letter-spacing: 12px;
-        text-shadow: 0 0 3px black;
         text-align: center;
         padding-top: 35vh;
         padding-left: 3vw;
@@ -138,10 +152,12 @@
     }
 }
 
-
+.project-hero-image {
+    
+}
 #holdie-description {
     .project-hero-image {
-        background: url("/storage/holdie-header.jpg");
+        background: linear-gradient(180deg,transparent,rgba(0,0,0,0.3)),url("/storage/holdie-header.jpg");
         background-size: cover;
         width: 100%;
         height: 100vh;
@@ -152,7 +168,7 @@
 }
 #helios-description {
     .project-hero-image {
-        background: url("/storage/helios-header.jpg");
+        background: linear-gradient(180deg,transparent,rgba(0,0,0,0.3)),url("/storage/helios-header.jpg");
         background-size: cover;
         width: 100%;
         height: 100vh;
@@ -163,7 +179,7 @@
 }
 #mugen-description {
     .project-hero-image {
-        background: url("/storage/mugen-header.jpg");
+        background: linear-gradient(180deg,transparent,rgba(0,0,0,0.3)),url("/storage/mugen-header.jpg");
         background-size: cover;
         width: 100%;
         height: 100vh;
@@ -174,7 +190,7 @@
 }
 #olio-description {
     .project-hero-image {
-        background: url("/storage/olio-header.jpg");
+        background: linear-gradient(180deg,transparent,rgba(0,0,0,0.3)),url("/storage/olio-header.jpg");
         background-size: cover;
         width: 100%;
         height: 100vh;
@@ -185,7 +201,7 @@
 }
 #bfs-description {
     .project-hero-image {
-        background: url("/storage/bfs-header.jpg");
+        background: linear-gradient(180deg,transparent,rgba(0,0,0,0.5)),url(/storage/bfs-header.jpg);
         background-size: cover;
         width: 100%;
         height: 100vh;

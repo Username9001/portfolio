@@ -14,7 +14,7 @@
         <ul class="team">
             {{-- <li>Team:</li> --}}
             <li>T. de Jong&nbsp;|&nbsp;</li>
-            <li>B. Muntinga&nbsp;|&nbsp;</li>
+            <li>B.J. Muntinga&nbsp;|&nbsp;</li>
             <li>S. Teekens&nbsp;|&nbsp;</li>
             <li>E.Y. Wubbels</li>
         </ul>
@@ -25,7 +25,7 @@
                 <hr>
                 <span class="bc-span">project description</span>
             </blockquote>
-            <img src="/storage/holdie-detail.jpg" alt="" class='detail-image'/>
+            <img src="/storage/holdie-detail-3.jpg" alt="" class='detail-image'/>
             <span>Detail of Holdie the pencil holder</span>
             <h2>Approach</h2>
             <p>
@@ -44,7 +44,7 @@
                     tries to get your attention and when he does feel love and affection, he gets
                     this warm feeling from within and shows his love to you.
             </p>
-            <img src="/storage/holdie-header.jpg" alt="" class='detail-image'>
+            <img src="/storage/holdie-detail-5.jpg" alt="" class='detail-image'>
             <span>More detail description</span>
             <p>
                 More description about the design process and multiple iterations of the form of Holdie
@@ -56,7 +56,17 @@
                 "Quote about Holdie getting someone throwing their laptops away and becoming a writer"
                 <hr>
                 <span class="bc-span">1st year student</span>
+                <hr>
+                <img src="/storage/holdie-detail-4.jpg" alt="" class='detail-image' style="max-width:50%; float:right;">
             </blockquote>
+            
+            <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia esse repellat nesciunt autem distinctio consequuntur earum optio beatae in a, voluptatem possimus? Dignissimos, rerum. Possimus provident dolorem repellendus aliquam delectus impedit modi itaque quae? A fugit dolor illum corrupti incidunt?
+            </p>
+            <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi facilis minima voluptatum modi necessitatibus odit molestiae? Molestiae laborum quaerat voluptate doloremque qui?
+            </p>
+            <img src="/storage/holdie-detail.jpg" alt="" class='detail-image'>
         </div>
     </div>
 </div>

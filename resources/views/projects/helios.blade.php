@@ -13,9 +13,9 @@
     <div class="project-text" id="helios-text">
         <ul class="team">
             {{-- <li>Team:</li> --}}
-            <li>A. Bundel&nbsp;|&nbsp;</li>
-            <li>N. Mascarenhas&nbsp;|&nbsp;</li>
-            <li>S. Vughs&nbsp;|&nbsp;</li>
+            <li>A.F. Bundel&nbsp;|&nbsp;</li>
+            <li>N.N. Valiera Mascarenhas&nbsp;|&nbsp;</li>
+            <li>S.J.M. Vughs&nbsp;|&nbsp;</li>
             <li>E.Y. Wubbels</li>
         </ul>
         <div class="project-description">
@@ -28,7 +28,7 @@
                 Helios was designed to be an intuitive way of controlling the lighting within a shared environemnt.
                 Using gestures to assign lighting schemes to parts of the room, you control your own part of the area.
             </p>
-            <img src="/storage/helios-detail-2.jpg" alt="" class='detail-image'>
+            <img src="/storage/helios-detail.jpg" alt="" class='detail-image' style="height: 400px">
             <span>More span descriptions</span>
             <p>
                 Something something project description
@@ -42,7 +42,7 @@
                 The system had gone through a handful of iterations before arriving at the final choice for the Helios panel.
                 Displaying straight lines centered from within, creating a bird's eye view from the room reflected in the panel.
             </p>
-            <img src="/storage/helios-detail-3.jpg" alt="" class='detail-image'>
+            <img src="/storage/helios-detail-6.jpg" alt="" class='detail-image' style="height: 480px;">
             <span>More spans to span descriptions</span>
             <p>
                 The system works using a Microsoft Kinect to track your gestures and sends this information through the panel to the Philips Hue System.
@@ -52,9 +52,24 @@
                 <hr>
                 <span class="bc-span">Confused user during interview</span>
             </blockquote>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae nobis veniam quas animi odit illo inventore accusantium, blanditiis amet quos soluta deserunt facere doloremque, vitae id sunt a? Fugit dolore eaque, architecto inventore magnam quas recusandae, obcaecati quia ipsa sapiente atque. Voluptatum ex beatae soluta non nemo sunt aut doloremque?
+            </p>
+            <img src="/storage/helios-detail-4.jpg" alt="" class='detail-image'>
+            <span>Helios at a demonstration</span>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, mollitia natus reprehenderit voluptatibus repellat nulla?
+            </p>
+            <img src="/storage/helios-detail-6.png" alt="" class='detail-image'>
+            <span>Helios close-up</span>
+
         </div>
     </div>
 </div>
 
-
+<style scoped>
+    .detail-image {
+        object-fit: cover;
+    }
+</style>
 @endsection

@@ -37,6 +37,31 @@
                 This socket is the combination of two essential spacial shapes, the cube and the sphere.
                 Made robust to withstand the clumsiness people experience when plugging their electronics in sockets.
             </p>
+            <div class="shift-left">
+                <blockquote>
+                    "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta neque deserunt iusto. "
+                        <img src="/storage/bfs-detail-2.jpg" alt="" class='detail-image'>
+                        <span>assignment #</span>
+                </blockquote>
+                <blockquote style="margin-left:15%;">
+                    "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta neque deserunt iusto. "
+                        <img src="/storage/bfs-detail-3.jpg" alt="" class='detail-image'>
+                        <span>assignment #</span>
+                </blockquote>
+                <blockquote style="margin-left:30%;">
+                        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta neque deserunt iusto. "
+                        <img src="/storage/bfs-detail-4.jpg" alt="" class='detail-image'>
+                        <span>assignment #</span>
+                    </blockquote>                
+                <blockquote style="margin-left:45%;">
+                    "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta neque deserunt iusto. "
+                        <img src="/storage/bfs-detail-5.jpg" alt="" class='detail-image'>
+                        <span>assignment #</span>
+                </blockquote>
+            </div>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, doloremque beatae. In incidunt repellat sit.
+            </p>
         </div>
     </div>
 </div>
@@ -51,6 +76,12 @@
 .project-header h1 {
     padding-top: 6vh;
 }
+@media (max-width: 580px) {
+    blockquote {
+        margin-left: -10%!important;
+    }
+}
+
 </style>
 
 @endsection

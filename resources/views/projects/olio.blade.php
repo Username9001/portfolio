@@ -14,7 +14,7 @@
             <div class="project-text" id="olio-text">
                 <ul class="team">
                     <li>E. Disbergen&nbsp;|&nbsp;</li>
-                    <li>L. Stavenuiter&nbsp;|&nbsp;</li>
+                    <li>L.S. Stavenuiter&nbsp;|&nbsp;</li>
                     <li>E.Y. Wubbels</li>
                 </ul>
                 <div class="project-description">
@@ -68,15 +68,18 @@
                             "Quote from feedback"
                             <hr>
                             <span class="bc-span">Feedback person</span>
+                            <img src="/storage/olio-detail-4.jpg" alt="" class='detail-image' />
+                            <span>Olio in the kitchen</span>
                         </blockquote>
                         <p>
                             The results show an increase in awareness of the mess being
                             made and showed Olio as a trigger of discussions within the group about clutter.
                         </p>
+                        <img src="/storage/olio-detail-5.jpg" alt="" class='detail-image'/>
+                        <span>Olio being used on the stove</span>
                     </div>
                 </div>
             </div>
         </div>   
-
 
 @endsection
