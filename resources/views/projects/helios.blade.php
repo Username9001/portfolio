@@ -19,6 +19,9 @@
             <li>E.Y. Wubbels</li>
         </ul>
         <div class="project-description">
+            <video autoplay controls="controls" id="helios-video">
+                <source src="/storage/helios-video.mp4" type="video/mp4">
+            </video>
             <blockquote>
                 "Create a multi-user interface that controls the illumination scheme for communal spaces"
                 <hr>
@@ -70,6 +73,9 @@
 <style scoped>
     .detail-image {
         object-fit: cover;
+    }
+    #helios-video {
+        margin: -40px 0 40px 0;
     }
 </style>
 @endsection

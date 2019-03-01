@@ -51,22 +51,6 @@
             margin-bottom: -20px;
             padding: 0;
         }
-        blockquote {
-            margin-left: 5%;
-            font-style: italic;
-            font-size: 2.4rem;
-            width: 65%;
-            line-height: 2.8rem;
-            hr {
-                margin: 0;
-            }
-            .bc-span {
-                font-style: italic;
-                width: 65%;
-                margin-left: 5%;
-                text-transform: capitalize;
-            }
-        }
         img {
             // float: right;
             width: 80%;
@@ -130,6 +114,24 @@
                 padding-bottom: 10px;
             }
         }
+    }
+}
+blockquote {
+    margin-left: 5%;
+    font-style: italic;
+    font-size: 2.4rem;
+    width: 65%;
+    line-height: 2.8rem;
+    border-left: 10px solid white;
+    padding-left: 22px;
+    hr {
+        margin: 0;
+    }
+    .bc-span {
+        font-style: italic;
+        width: 65%;
+        margin-left: 5%;
+        text-transform: capitalize;
     }
 }
 .project-header {

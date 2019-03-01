@@ -35,6 +35,7 @@
                         different modes, that are allocated to several magnetic contact points in the
                         corners of the pyramids.
                     </p>
+
                     <blockquote>
                         "Something about the feedback on the rotation"
                         <hr>
@@ -61,6 +62,9 @@
                     <p>
                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem ut ad nihil doloribus eveniet quibusdam, quaerat neque dicta recusandae provident ex consectetur maiores sequi est porro eligendi non doloremque tempore!
                     </p>
+                    <video controls="controls" id="escaperoomVideo">
+                        <source src="/storage/mugen-video.mp4" type="video/mp4">
+                    </video>                    
                     <p>
                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, illo quibusdam nesciunt culpa consequatur esse laudantium voluptatibus id blanditiis quaerat.
                     </p>

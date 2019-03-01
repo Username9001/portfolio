@@ -1,11 +1,11 @@
 @extends('layouts.app')
 
 @section('content')
-<div id="about" class="about-section" data-aos="fade-down" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
+<div id="about" class="about-section">
     <h2>About me</h2>
 
     <div class="description-text">
-        <div class="block-1">
+        <div class="block-1" data-aos="fade-down-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
             <blockquote class="left-quote">
                 "Work hard, play hard."
                 <hr>
@@ -18,20 +18,20 @@
                 In design I focus mainly on physical prototyping and programming. I have a self-directed and flexible mindset thanks to having worked in different multidisciplinary teams over the years at university.
             </p>
         </div>
-        <div class="block-4">
-            <p class="right">
+        <div class="block-4" data-aos="fade-up-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
+            <p class="right" style="padding-top:35px;">
                 This is also what initially peaked my interest in web development, making websites to track my study progress and creating simple html pages for this. Last year I took this a step further and started teaching myself to work with php and mysql. This has enabled me to make websites that not only look nice but are functional too. Using this newfound skill I have made a webshop for a fashion designer and a blog for a technology journalist.  And now a portfolio for my own work as well.
             </p>
-        </div>
-        <div class="block-2">
-            <img src="/storage/profiel4.jpg" class="profile" alt="">
             <blockquote class="right">
                 "Why won't it respond, and why is the server kicking us out over and over again?"
                 <hr>
                 <span class="bc-span">Me, While Overloading The Servers In Dublin</span>
             </blockquote>  
         </div>
-        <div class="block-3">
+        <div class="block-2" data-aos="fade-down-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
+            <img src="/storage/profiel4.jpg" class="profile" alt="">
+        </div>
+        <div class="block-3" data-aos="fade-up-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
             <img src="/storage/profiel-extra.jpg" class="profile2" alt="">
         </div>
     </div>
@@ -94,6 +94,7 @@
         font-size: 2rem;
         width: 130%;
         line-height: 2.8rem;
+        margin-top: 22px;
     }
     .left-quote {
         margin-right: 0;
