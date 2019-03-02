@@ -74,26 +74,18 @@
         }
 
         .shift-left {
-            margin-left: -10%;
-        }
-
-        @media (max-width: 580px) {
-            .detail-image {
-                margin-left: 0!important;
-                widows: 100%!important;
-            }
-            .shift-left {
-                margin-left: 0;
-            }
+            margin-left: -10
         }
     }
     @media (max-width: 580px) {
         .project-text {
             padding: 10px 0;
+            width: 85vw;
             p {
                 width: 100%;
                 max-width: 100%;
                 margin: 0;
+                font-size: 1.1rem;
             }
             h2 {
                 width: 100%;
@@ -101,17 +93,28 @@
             blockquote {
                 margin-left: -10%;
                 width: 120%;
-                font-size: 2.2rem;
+                font-size: 1.6rem;
             }
             img {
-                width: 100%;
+                width: 130%;
                 margin-left: -15%;
+            }
+            video {
+                width: 120%;
+                margin-left: -10%;
             }
             span {
                 margin: 0;
                 text-align: right;
                 width: 110%;
                 padding-bottom: 10px;
+                font-size: 1rem;
+            }
+            .team {
+                font-size: 1rem;
+            }
+            .shift-left {
+                margin-left: 0;
             }
         }
     }
@@ -122,7 +125,6 @@ blockquote {
     font-size: 2.4rem;
     width: 65%;
     line-height: 2.8rem;
-    border-left: 10px solid white;
     padding-left: 22px;
     hr {
         margin: 0;
@@ -154,9 +156,6 @@ blockquote {
     }
 }
 
-.project-hero-image {
-    
-}
 #holdie-description {
     .project-hero-image {
         background: linear-gradient(180deg,transparent,rgba(0,0,0,0.3)),url("/storage/holdie-header.jpg");
@@ -217,7 +216,7 @@ blockquote {
         padding-top: 20px;
     }
 }
-#escaperoomVideo {
+#escaperoomVideo, #mugen-video {
     width: 100%;
     height: auto;
 }
@@ -315,3 +314,71 @@ scroll-down {
         grid-row: 6;
     }
 }
+
+
+        /* Carousel */
+        .slideshow-container {
+            max-width: 1000px;
+            position: relative;
+            margin: auto;
+        }
+        .slides {
+            display: none;
+        }
+        /* Next & previous buttons */
+        .prev, .next {
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            width: auto;
+            margin-top: -22px;
+            padding: 16px;
+            color: white;
+            font-weight: bold;
+            font-size: 18px;
+            transition: 0.6s ease;
+            border-radius: 0 3px 3px 0;
+            user-select: none;
+        }
+        .prev {
+            margin-left: 20%;
+            @media (max-width: 580px) {
+                margin-left: 0;
+            }
+        }
+        /* Position the "next button" to the right */
+        .next {
+            right: 0;
+            border-radius: 3px 0 0 3px;
+        } 
+        /* The dots/bullets/indicators */
+        .dot {
+            cursor: pointer;
+            height: 15px;
+            width: 15px;
+            margin: 0 2px;
+            background-color: #bbb;
+            border-radius: 50%;
+            display: inline-block;
+            transition: background-color 0.6s ease;
+        }
+        .active, .dot:hover {
+            background-color: #717171;
+        }
+        /* Fading animation */
+        .car-fade {
+            -webkit-animation-name: car-fade;
+            -webkit-animation-duration: 1.5s;
+            animation-name: car-fade;
+            animation-duration: 1.5s;
+        }
+
+        @-webkit-keyframes car-fade {
+            from {opacity: .4} 
+            to {opacity: 1}
+        }
+
+        @keyframes car-fade {
+            from {opacity: .4} 
+            to {opacity: 1}
+        }

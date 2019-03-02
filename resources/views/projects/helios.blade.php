@@ -31,7 +31,7 @@
                 Helios was designed to be an intuitive way of controlling the lighting within a shared environemnt.
                 Using gestures to assign lighting schemes to parts of the room, you control your own part of the area.
             </p>
-            <img src="/storage/helios-detail.jpg" alt="" class='detail-image' style="height: 400px">
+            <img src="/storage/helios-detail.jpg" alt="" class='detail-image'>
             <span>More span descriptions</span>
             <p>
                 Something something project description

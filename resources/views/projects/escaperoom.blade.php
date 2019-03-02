@@ -59,7 +59,7 @@
             <blockquote>
                 "Quote about game rules in the escape room"
                 <hr>
-                <img src="/storage/escaperoom-detail.jpg" alt="" class='detail-image' style="width:40%;">
+                <img src="/storage/escaperoom-detail.jpg" alt="" class='detail-image' style="width:40%; margin-left:0;">
                 <hr>
                 <span>instructions</span>
             </blockquote>

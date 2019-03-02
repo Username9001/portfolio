@@ -1,3 +1,6 @@
+.right {
+    float: right;
+}
 
 // navbar
 .navigation {
@@ -7,7 +10,7 @@
     width: 100%;
     z-index: 90000;
     transition: 0.5s;
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(255, 255, 255, 0));
+    background: linear-gradient(rgba(15,15,15,0.9) 60%,rgba(0,0,0,0));
     color: white;
     transition: all 1.5s ease;
     opacity: 0;
@@ -38,7 +41,7 @@
             z-index: 1;
             transition: 0.9s;
             transition-delay: 0.3s;
-            background: linear-gradient(rgba(0, 0, 0, 0) 0%, black, rgba(0, 0, 0, 0) 280%);
+            background: linear-gradient(rgba(0, 0, 0, 0) -50%, black, rgba(0, 0, 0, 0) 150%);
             margin-left: -53px;
             margin-top: -600px;
             text-align: right;
@@ -114,7 +117,7 @@
             font-size: 1.2rem;
         }
     }
-}
+} 
 
 // project grid
 .id-projects-title, .web-projects-title {
@@ -297,13 +300,10 @@
 
 // about section
 .about-section {
-    padding: 80px 60px 0 60px;
+    padding: 90px 60px 0 60px;
     max-width: 65vw;
     min-height: 80vh;
     margin: auto;
-    .right {
-        float: right;
-    }
     .profile, .profile2 {
         max-width: 100%;
     }
@@ -311,7 +311,7 @@
         text-transform: uppercase;
         font-family: 'DIN';
         letter-spacing: 2px;
-        margin-bottom: 70px;
+        margin-bottom: 50px;
     }
     p {
         text-align: left;

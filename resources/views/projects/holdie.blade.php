@@ -20,53 +20,57 @@
         </ul>
         <div class="project-description">
             {{-- <h2>Project Description</h2> --}}
-            <blockquote>
+            <blockquote data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                 "Bug an object without adding new functionality to it. It should maintain it’s original purpose, while getting a character that people can bond and interact with."
                 <hr>
                 <span class="bc-span">project description</span>
             </blockquote>
-            <img src="/storage/holdie-detail-3.jpg" alt="" class='detail-image'/>
+            <img src="/storage/holdie-detail-3.jpg" alt="" class='detail-image' data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" />
             <span>Detail of Holdie the pencil holder</span>
-            <h2>Approach</h2>
-            <p>
-                    We created a bugged pencilholder named Holdie. Holdie is long
-                    forgotten, covered in dust on your desk, overwhelmed by modern technology.
-                    While all he wants is to love, to be loved and to get a bit of attention every
-                    now and then. 
-            </p>
-            <blockquote>
-                "Quote From Interview"
-                <hr>
-                <span class="bc-span">Crazy 1st year student</span>
-            </blockquote>
-            <p>
-                    Therefore Holdie tries to connect and interact with people. He
-                    tries to get your attention and when he does feel love and affection, he gets
-                    this warm feeling from within and shows his love to you.
-            </p>
-            <img src="/storage/holdie-detail-5.jpg" alt="" class='detail-image'>
-            <span>More detail description</span>
-            <p>
-                More description about the design process and multiple iterations of the form of Holdie
-            </p>
-            <p>
-                Description part about how the technology works and makes itself noticable.
-            </p>
-            <blockquote>
+            <div data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
+                <h2>Approach</h2>
+                <p>
+                        We created a bugged pencilholder named Holdie. Holdie is long
+                        forgotten, covered in dust on your desk, overwhelmed by modern technology.
+                        While all he wants is to love, to be loved and to get a bit of attention every
+                        now and then. 
+                </p>
+            </div>
+            <div data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
+                <blockquote>
+                    "Quote From Interview"
+                    <hr>
+                    <span class="bc-span">Crazy 1st year student</span>
+                </blockquote>
+                <p>
+                        Therefore Holdie tries to connect and interact with people. He
+                        tries to get your attention and when he does feel love and affection, he gets
+                        this warm feeling from within and shows his love to you.
+                </p>
+            </div>
+            <div data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
+                <img src="/storage/holdie-detail-5.jpg" alt="" class='detail-image'>
+                <span>More detail description</span>
+                <p>
+                    More description about the design process and multiple iterations of the form of Holdie
+                </p>
+            </div>
+            <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                 "Quote about Holdie getting someone throwing their laptops away and becoming a writer"
                 <hr>
                 <span class="bc-span">1st year student</span>
                 <hr>
                 <img src="/storage/holdie-detail-4.jpg" alt="" class='detail-image' style="max-width:50%; float:right;">
             </blockquote>
-            
-            <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia esse repellat nesciunt autem distinctio consequuntur earum optio beatae in a, voluptatem possimus? Dignissimos, rerum. Possimus provident dolorem repellendus aliquam delectus impedit modi itaque quae? A fugit dolor illum corrupti incidunt?
-            </p>
-            <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi facilis minima voluptatum modi necessitatibus odit molestiae? Molestiae laborum quaerat voluptate doloremque qui?
-            </p>
-            <img src="/storage/holdie-detail.jpg" alt="" class='detail-image'>
+            <div data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
+                <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia esse repellat nesciunt autem distinctio consequuntur earum optio beatae in a, voluptatem possimus? Dignissimos, rerum. Possimus provident dolorem repellendus aliquam delectus impedit modi itaque quae? A fugit dolor illum corrupti incidunt?
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi facilis minima voluptatum modi necessitatibus odit molestiae? Molestiae laborum quaerat voluptate doloremque qui?
+                </p>
+            </div>
+            <img src="/storage/holdie-detail.jpg" alt="" class='detail-image' data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
         </div>
     </div>
 </div>

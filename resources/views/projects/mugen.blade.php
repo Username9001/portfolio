@@ -62,7 +62,7 @@
                     <p>
                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem ut ad nihil doloribus eveniet quibusdam, quaerat neque dicta recusandae provident ex consectetur maiores sequi est porro eligendi non doloremque tempore!
                     </p>
-                    <video controls="controls" id="escaperoomVideo">
+                    <video controls="controls" id="mugen-video">
                         <source src="/storage/mugen-video.mp4" type="video/mp4">
                     </video>                    
                     <p>

@@ -90,7 +90,7 @@
     </div>
 
 
-    <style>
+    <style scoped>
         .wireframe-container, .wireframe-container2 {
             position: relative;
             display: inline-block;
