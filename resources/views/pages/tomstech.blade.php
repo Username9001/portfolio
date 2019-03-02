@@ -11,15 +11,15 @@
             <div class="slideshow-container">
                 <div class="slides car-fade">
                     <img src="/storage/TomsTech_fs.jpg" alt="" class="detail-image">
-                    <span class="right">tomstech.nl blog</span>
+                    <span class="right">main page</span>
                 </div>
                 <div class="slides car-fade">
                     <img src="/storage/screenshots/TT_article.png" alt="" class='detail-image'>
-                    <span class="right">tomstech.nl individual article page</span>
+                    <span class="right">individual article page</span>
                 </div>
                 <div class="slides car-fade">
                     <img src="/storage/screenshots/TT_category.png" alt="" class='detail-image'>
-                    <span class="right">tomstech.nl category page</span>
+                    <span class="right">category page</span>
                 </div>
                 <!-- Next and previous buttons -->
                 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -35,8 +35,6 @@
         font-size: 3.6rem;
         padding: 0;
         text-align: left;
-        margin-left: 20%;
-        padding-left: 20px;
     }
     .project-description span {
         margin-bottom: 40px;
@@ -44,6 +42,8 @@
     @media (max-width: 780px) {
         .project-header h1 {
             font-size: 2.6rem;
+            margin: 0 0 0 -20px!important;
+            padding: 25% 0 5% 0!important;
         }
     }
 </style>

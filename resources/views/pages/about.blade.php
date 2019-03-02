@@ -20,7 +20,7 @@
         </div>
         <div class="block-4" data-aos="fade-up-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
             <p class="right" style="padding-top:35px;">
-                This is also what initially peaked my interest in web development, making websites to track my study progress and creating simple html pages for this. Last year I took this a step further and started teaching myself to work with php and mysql. This has enabled me to make websites that not only look nice but are functional too. Using this newfound skill I have made a webshop for a fashion designer and a blog for a technology journalist.  And now a portfolio for my own work as well.
+                    Applying this to web development, I have made websites to track my study progress, using simple html pages. Last year I took this a step further and started teaching myself to work with php and mysql. I have developed a webshop for a fashion designer and a blog for a technology journalist.
             </p>
             <blockquote class="right">
                 "Why won't it respond, and why is the server kicking us out over and over again?"
@@ -70,14 +70,14 @@
 <style scoped>
     .description-text {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 2fr 2fr 3fr;
     }
     .block-1 {
-        grid-column: 1;
+        grid-column: 1 / span 2;
         grid-row: 1;
     }
     .block-2 {
-        grid-column: 2;
+        grid-column: 3;
         grid-row: 1;
     }
     .block-3 {
@@ -85,7 +85,7 @@
         grid-row: 2;
     }
     .block-4 {
-        grid-column: 2;
+        grid-column: 2 / span 2;
         grid-row: 2;
     }
     blockquote {

@@ -71,7 +71,15 @@
                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi facilis minima voluptatum modi necessitatibus odit molestiae? Molestiae laborum quaerat voluptate doloremque qui?
                 </p>
             </div>
-            <img src="/storage/holdie-detail.jpg" alt="" class='detail-image' data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
+            <div data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
+                <img src="/storage/holdie-detail.jpg" alt="" class='detail-image'>
+                <span class="right">text</span>
+            </div>
+
+            <a href="https://github.com/Username9001/holdie.git" target="_blank">
+                <button>Code</button>
+            </a>
+
         </div>
     </div>
 </div>

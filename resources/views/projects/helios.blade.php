@@ -48,7 +48,7 @@
             <img src="/storage/helios-detail-6.jpg" alt="" class='detail-image' style="height: 480px;" data-aos="fade" data-aos-duration="3000" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
             <span>More spans to span descriptions</span>
             <p>
-                The system works using a Microsoft Kinect to track your gestures and sends this information through the panel to the Philips Hue System.
+                The system works using a Leap Motion technology to track your gestures and sends this information through the panel to the Philips Hue System.
             </p>
             <blockquote data-aos="fade-left" data-aos-duration="1800" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                 "Why would you want a party mode?"
@@ -65,7 +65,9 @@
             </p>
             <img src="/storage/helios-detail-6.png" alt="" class='detail-image' data-aos="fade" data-aos-duration="2500" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
             <span>Helios close-up</span>
-
+            <a href="https://github.com/Username9001/helios.git" target="_blank">
+                <button>Code</button>
+            </a>
         </div>
     </div>
 </div>

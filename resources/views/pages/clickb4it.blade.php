@@ -11,15 +11,15 @@
             <div class="slideshow-container">
                 <div class="slides car-fade">
                     <img src="/storage/clickb4it_fs.jpg" alt="" class="detail-image">
-                    <span class="right">clickbaitwarez.com webshop</span>
+                    <span class="right">main page</span>
                 </div>
                 <div class="slides car-fade">
                     <img src="/storage/screenshots/CB_product.png" alt="" class='detail-image'>
-                    <span class="right">clickbaitwarez.com individual product page</span>
+                    <span class="right">product page</span>
                 </div>
                 <div class="slides car-fade">
                     <img src="/storage/screenshots/CB_cart.png" alt="" class='detail-image'>
-                    <span class="right">clickbaitwarez.com shopping cart page</span>
+                    <span class="right">shopping cart page</span>
                 </div>
                 <!-- Next and previous buttons -->
                 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -34,8 +34,6 @@
         font-size: 3.6rem;
         padding: 0;
         text-align: left;
-        margin-left: 20%;
-        padding-left: 20px;
     }
     .project-description span {
         margin-bottom: 40px;
@@ -44,6 +42,8 @@
     @media (max-width: 780px) {
         .project-header h1 {
             font-size: 2.2rem;
+            margin: 0 0 0 -20px!important;
+            padding: 25% 0 5% 0!important;
         }
     }
 

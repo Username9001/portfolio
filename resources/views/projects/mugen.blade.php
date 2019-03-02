@@ -70,9 +70,9 @@
                     <img src="/storage/mugen-detail.jpg" alt="" class='detail-image'>
                     <span>Mugen being used during a bbq</span>
                 </div>
-                <div class="project-images">
-
-                </div>
+                <a href="https://github.com/Username9001/mugen.git" target="_blank">
+                    <button>Code</button>
+                </a>
             </div>
         </div>
 
