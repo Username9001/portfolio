@@ -141,10 +141,6 @@
             max-width: 100%;
             width: 100%;
         }
-        blockquote {
-            margin-right: -20%;
-            font-size: 1.6rem;
-        }
         .left-quote {
             margin-left: -14%;
         }
