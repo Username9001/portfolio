@@ -18,7 +18,7 @@
                     <li>E.Y. Wubbels</li>
                 </ul>
                 <div class="project-description">
-                    <blockquote>
+                    <blockquote data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                         "Can an interactive tagging tool change behaviour and create a feeling of shared responsibility concerning clutter in communal kitchens in student houses?"
                         <hr>
                         <span class="bc-span">research question</span>
@@ -45,7 +45,7 @@
                         of six individual tokens. Designed to be used as a tagging system for mess in
                         communal spaces. 
                     </p>
-                    <blockquote>
+                    <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                         "Quote from an annoyed participant, complaining about their roommates"
                         <hr>
                         <span class="bc-span">Person who got quoted</span>
@@ -64,7 +64,7 @@
                             observations from the participants and communicated through 
                             individual and group interviews.
                         </p>
-                        <blockquote>
+                        <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                             "Quote from feedback"
                             <hr>
                             <span class="bc-span">Feedback person</span>

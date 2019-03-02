@@ -3,15 +3,11 @@
 @section('content')
 
 <div id="clickb4it-description" class="project-single">
-    <div class="project-hero-image">
-        <div class="project-header">
-            <h1>clickbaitwarez</h1>
-        </div>
-        
-        {{-- <a href="#clickb4it-text" class="scroll-down"></a> --}}
-    </div>
     <div class="project-text" id="clickb4it-text">
         <div class="project-description">
+            <div class="project-header">
+                <h1>clickbaitwarez</h1>
+            </div>
             <div class="slideshow-container">
                 <div class="slides car-fade">
                     <img src="/storage/clickb4it_fs.jpg" alt="" class="detail-image">
@@ -35,8 +31,11 @@
 </div>
 <style>
     .project-header h1 {
-        font-size: 4.6rem;
+        font-size: 3.6rem;
         padding: 0;
+        text-align: left;
+        margin-left: 20%;
+        padding-left: 20px;
     }
     .project-description span {
         margin-bottom: 40px;

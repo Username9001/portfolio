@@ -17,17 +17,16 @@
                     <li>E.Y. Wubbels</li>
                 </ul>
                 <div class="project-description">
-                    <blockquote>
+                    <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                         "It is designed to mimic the natural opening movement of a flower, giving the music a blooming aesthetic."
                         <hr>
-                        <span class="bc-span">S. Suzuki</span>
                     </blockquote>
                     <p>
                         The Mugen is a speaker that can be rotated around its own axis, providing the
                         user with the freedom to direct the music coming out of the speakers to any
                         direction they want. 
                     </p>
-                    <img src="/storage/mugen-detail-6.jpg" alt="" class='detail-image'>
+                    <img src="/storage/mugen-detail-6.jpg" alt="" class='detail-image' data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                     <span>Mugen first iteration</span>
                     <p>
                         It is designed to mimic the natural opening movement of
@@ -36,7 +35,7 @@
                         corners of the pyramids.
                     </p>
 
-                    <blockquote>
+                    <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                         "Something about the feedback on the rotation"
                         <hr>
                         <span class="bc-span">Feedback giver</span>
@@ -49,7 +48,7 @@
                         LiPo batteries, making it retain its dynamics without being interrupted by
                         cables or buttons.
                     </p>
-                    <blockquote>
+                    <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                         "I may have dropped the transistors, but you blew up the batteries"
                         <hr>
                         <span class="bc-span">P.H.R. Meulendijks</span>
@@ -57,12 +56,12 @@
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil voluptatem quos dolorem dolorum at molestiae earum laboriosam tenetur doloremque accusamus incidunt culpa nulla quo, vitae fugit! Tempore, rerum obcaecati soluta, nihil quia ipsam adipisci placeat delectus quam, aperiam inventore similique.
                     </p>
-                    <img src="/storage/mugen-detail-5.png" alt="" class='detail-image' style="filter:invert(100%)">
+                    <img src="/storage/mugen-detail-5.png" alt="" class='detail-image' style="filter:invert(100%)" data-aos="fade" data-aos-duration="2500" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                     <span>Custom printed circuit board layout for Mugen controller</span>
                     <p>
                         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem ut ad nihil doloribus eveniet quibusdam, quaerat neque dicta recusandae provident ex consectetur maiores sequi est porro eligendi non doloremque tempore!
                     </p>
-                    <video controls="controls" id="mugen-video">
+                    <video controls="controls" id="mugen-video" data-aos="zoom-in-down" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                         <source src="/storage/mugen-video.mp4" type="video/mp4">
                     </video>                    
                     <p>
@@ -77,5 +76,11 @@
             </div>
         </div>
 
+        <style>
+        #mugen-video {
+            width: 120%;
+            margin-left: -10%;
+        }
+        </style>
 
 @endsection

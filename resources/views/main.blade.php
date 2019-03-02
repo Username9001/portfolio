@@ -66,24 +66,24 @@
         <div class="web-clickb4it">
             <a href="/clickb4it" aria-label="clickbaitwarez webshop">
                 <div class="wireframe-container" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
-                    <img src="/storage/blank.jpg" data-src="/storage/laptop.png" alt="" class="lazy test-image img1" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
-                    <img src="/storage/blank.jpg" data-src="/storage/clickb4it_fs.jpg" alt="" class="lazy test-image img2" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+                    <img src="/storage/blank.jpg" data-src="/storage/laptop.png" alt="" class="lazy test-image img1">
+                    <img src="/storage/blank.jpg" data-src="/storage/clickb4it_fs.jpg" alt="" class="lazy test-image img2">
                 </div>
                 <div class="wireframe-container2" data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
-                    <img src="/storage/blank.jpg" data-src="/storage/phone.png" alt="" class="lazy test-image img3" data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
-                    <img src="/storage/blank.jpg" data-src="/storage/clickb4it_mobile.jpg" alt="" class="lazy test-image img4" data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+                    <img src="/storage/blank.jpg" data-src="/storage/phone.png" alt="" class="lazy test-image img3">
+                    <img src="/storage/blank.jpg" data-src="/storage/clickb4it_mobile.jpg" alt="" class="lazy test-image img4">
                 </div>
             </a>
         </div>
         <div class="web-tomstech">
             <a href="/tomstech" aria-label="TomsTech blog">
-                <div class="wireframe-container">
-                    <img src="/storage/blank.jpg" data-src="/storage/laptop.png" alt="" class="lazy test-image img1" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
-                    <img src="/storage/blank.jpg" data-src="/storage/TomsTech_fs.jpg" alt="" class="lazy test-image img2" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+                <div class="wireframe-container" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+                    <img src="/storage/blank.jpg" data-src="/storage/laptop.png" alt="" class="lazy test-image img1">
+                    <img src="/storage/blank.jpg" data-src="/storage/TomsTech_fs.jpg" alt="" class="lazy test-image img2">
                 </div>
-                <div class="wireframe-container2">
-                    <img src="/storage/blank.jpg" data-src="/storage/phone.png" alt="" class="lazy test-image img3" data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
-                    <img src="/storage/blank.jpg" data-src="/storage/TomsTech_mobile.png" alt="" class="lazy test-image img4" data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+                <div class="wireframe-container2" data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+                    <img src="/storage/blank.jpg" data-src="/storage/phone.png" alt="" class="lazy test-image img3">
+                    <img src="/storage/blank.jpg" data-src="/storage/TomsTech_mobile.png" alt="" class="lazy test-image img4">
                 </div>
             </a>
         </div>

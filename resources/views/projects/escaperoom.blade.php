@@ -5,7 +5,7 @@
 <div id="escaperoom-description" class="project-single">
     <div class="project-hero-video">
         <div class="project-header">
-            <video autoplay controls="controls" id="escaperoomVideo">
+            <video  controls="controls" id="escaperoomVideo">
                 <source src="/storage/escaperoom.mp4" type="video/mp4">
             </video>
         </div>
@@ -20,10 +20,10 @@
             <li>E.Y. Wubbels</li>
         </ul>
         <div class="project-description">
-            <blockquote>
+            <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                 "Hi there Cyborg Hunters, it's me, Drake."
                 <hr>
-                <span class="bc-span">-Drake, 2018</span>
+                <span class="bc-span">Drake, 2018</span>
             </blockquote>
             <p>
                 The goal of this course was to create a simple puzzle using a microcontroller, and then to connect these puzzles to an overlaying network. Allowing for communication between the different microcontrollers.
@@ -33,12 +33,12 @@
             <p>
                 
             </p>
-            <blockquote>
+            <blockquote data-aos="fade-left" data-aos-duration="1600" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                 "Why won't it respond, and why is the server kicking us out over and over again?"
                 <hr>
                 <span class="bc-span">me, while overloading the server</span>
             </blockquote>
-            <blockquote>
+            <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" data-aos-delay="700">
                 "I'm sorry guys, something is wrong with the servers, we are looking into it."
                 <hr>
                 <span class="bc-span">lecturer, after i crashed the servers</span>
@@ -56,7 +56,7 @@
             <p>
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo accusamus voluptas assumenda minus sit numquam et sed error quia est.
             </p>
-            <blockquote>
+            <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                 "Quote about game rules in the escape room"
                 <hr>
                 <img src="/storage/escaperoom-detail.jpg" alt="" class='detail-image' style="width:40%; margin-left:0;">

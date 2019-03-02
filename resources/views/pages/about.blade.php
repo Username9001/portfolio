@@ -90,10 +90,8 @@
     }
     blockquote {
         margin-right: -30%;
-        font-style: italic;
         font-size: 2rem;
         width: 130%;
-        line-height: 2.8rem;
         margin-top: 22px;
     }
     .left-quote {

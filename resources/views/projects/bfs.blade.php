@@ -15,20 +15,20 @@
             <li>E.Y. Wubbels</li>
         </ul>
         <div class="project-description">
-            <blockquote>
-                "Let's go make something cool!"
+            <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
+                "Let's go make something"
                 <hr>
                 <span class="bc-span">Me, sometime</span>
             </blockquote>
             <p>
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium ea animi velit eaque, molestiae ipsa consectetur odit? Consectetur, officiis! Corporis omnis cum delectus itaque expedita. Porro nisi ab recusandae. Quas!
             </p>
-            <img src="/storage/bfs-detail.jpg" alt="" class='detail-image'>
+            <img src="/storage/bfs-detail.jpg" alt="" class='detail-image' data-aos="fade" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
             <span>Socket based on cube & sphere</span>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, ea accusamus deleniti veniam unde mollitia eos. Cumque unde esse nam.
             </p>
-            <blockquote>
+            <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                 "What the hell is that...&nbsp;&nbsp;&nbsp;...Is that a socket?!"
                 <hr>
                 <span class="bc-span">T. de Jong</span>
@@ -38,22 +38,22 @@
                 Made robust to withstand the clumsiness people experience when plugging their electronics in sockets.
             </p>
             <div class="shift-left">
-                <blockquote>
+                <blockquote data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                     "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta neque deserunt iusto. "
                         <img src="/storage/bfs-detail-2.jpg" alt="" class='detail-image'>
                         <span>assignment #</span>
                 </blockquote>
-                <blockquote style="margin-left:15%;">
+                <blockquote style="margin-left:15%;" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                     "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta neque deserunt iusto. "
                         <img src="/storage/bfs-detail-3.jpg" alt="" class='detail-image'>
                         <span>assignment #</span>
                 </blockquote>
-                <blockquote style="margin-left:30%;">
+                <blockquote style="margin-left:30%;" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                         "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta neque deserunt iusto. "
                         <img src="/storage/bfs-detail-4.jpg" alt="" class='detail-image'>
                         <span>assignment #</span>
                     </blockquote>                
-                <blockquote style="margin-left:45%;">
+                <blockquote style="margin-left:45%;" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                     "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta neque deserunt iusto. "
                         <img src="/storage/bfs-detail-5.jpg" alt="" class='detail-image'>
                         <span>assignment #</span>
@@ -74,11 +74,22 @@
     border-width: 0 0 2px 2px;
 }
 .project-header h1 {
-    padding-top: 6vh;
+    padding-top: 20%;
+    font-size: 7.2rem;
 }
+@media (max-width: 800px) {
+    .project-header h1 {
+        font-size: 4.8rem;
+    }
+}
+
 @media (max-width: 580px) {
     blockquote {
         margin-left: -10%!important;
+    }
+    .project-header h1 {
+        font-size: 3.2rem;
+        padding-top: 60%;
     }
 }
 
