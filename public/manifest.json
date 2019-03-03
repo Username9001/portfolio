@@ -1,7 +1,8 @@
 {
     "name": "Portfolio Erik Wubbels",
     "short_name": "Erik Wubbels",
-    "start_url": "/?homescreen=1",
+    "description" : "Portfolio of Erik Wubbels, Industrial Designer and Web Developer",
+    "start_url": ".",
     "scope": "/",
     "display": "standalone",
     "background_color": "#151515",
