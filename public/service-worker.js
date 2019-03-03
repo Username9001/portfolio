@@ -1,5 +1,7 @@
 let CACHE_NAME = 'sw-v1'
 
+var version = 'v1::';
+
 var filesToCache = [
 	'/',
 	'/css/app.css',
