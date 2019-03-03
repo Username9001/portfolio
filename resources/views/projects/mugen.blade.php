@@ -3,12 +3,14 @@
 @section('content')
 
         <div id="mugen-description" class="project-single">
-            <div class="project-hero-image">
+            <div class="project-hero-video">
                 <div class="project-header">
-                    <h1>Mugen</h1>
+                    <video controls="controls" id="escaperoomVideo">
+                        <source src="/storage/mugen-video.mp4" type="video/mp4">
+                    </video>
                 </div>
-                <a href="#mugen-text" class="scroll-down"></a>
             </div>
+        
             <div class="project-text" id="mugen-text">
                 <ul class="team">
                     <li>P.J.M de Koning&nbsp;|&nbsp;</li>
@@ -70,7 +72,10 @@
                         <button>Code</button>
                     </a>
                     <a href="/storage/reports/mugen-report.pdf" download>
-                        <button>Report</button>
+                        <button>
+                            <h3>Report</h3>
+                            <img class="download" src="/storage/download-solid.svg" alt="download link">
+                        </button>
                     </a>
                 </div>
 

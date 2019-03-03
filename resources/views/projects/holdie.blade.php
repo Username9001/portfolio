@@ -69,7 +69,10 @@
                 <button>Code</button>
             </a>
             <a href="/storage/reports/holdie-report.pdf" download>
-                <button>Report</button>
+                <button>
+                    Report
+                    <img class="download" src="/storage/download-solid.svg" alt="download link">
+                </button>
             </a>
 
         </div>

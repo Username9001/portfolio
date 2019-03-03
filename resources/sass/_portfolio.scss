@@ -50,7 +50,7 @@
             opacity: 1;
             transition: 0.6s;
             z-index: 500;
-            margin-top: 0;
+            margin-top: 20px;
         }
 
     }
@@ -121,6 +121,9 @@
             padding: 0;
         }
     }
+    @media (min-height: 800px) {
+        padding-top: 200px;
+    }
 } 
 
 // project grid
@@ -138,7 +141,7 @@
     }
 }
 .web-projects-title {
-    margin: -5px auto;
+    margin: 5px auto;
 }
 .project-grid {
     display: grid;
@@ -153,14 +156,13 @@
     // height: 240px;
     padding: 50px 50px 5px 5px;
     margin: 12px;
-    border: 1px solid white;
     .text-block {
         color: white;
         margin-top: auto;
         min-height: 180px;
-        padding-top: 105px;
+        padding-top: 95px;
         vertical-align: bottom;
-        margin-left: 10px;
+        margin-left: 25px;
         h2 {
             text-transform: uppercase;
             letter-spacing: 2px;
@@ -174,7 +176,7 @@
             margin-bottom: 0;
         }
         hr {
-            border-top: 2px solid white;
+            border-top: 1px solid white;
             margin: 0 -2px 0 0;
             width: calc(100% - 2px);
         }
@@ -298,6 +300,9 @@
         padding: 20px 0;
         margin: auto auto auto 40px;
     }
+    .device-image {
+        filter: invert(60%);
+    }
     // Wireframe Devices
     
 }
@@ -321,9 +326,17 @@
         text-align: left;
         width: 90%;
     }
+    .contact-info {
+        margin: 30px 0 50px 0;
+        line-height: 2rem;
+        text-align: center;
+        .contact-details {
+            padding: 0;
+        }
+    }
     .links-out {
         text-align: center;
-        padding: 80px 0 50px 0;
+        padding: 50px 0 0 0;
     }
     .links-out li {
         display: inline;

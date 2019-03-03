@@ -33,7 +33,7 @@
             display: inline;
         }
         p {
-            padding: 30px 20px;
+            padding: 10px;
             line-height: 2.2rem;
             font-size: 1.2rem;
             font-weight: 400;
@@ -70,7 +70,7 @@
             text-align: right;
         }
         button {
-            width: auto;
+            width: 300px;
             padding: 5px 15px 5px 10%;
             margin: 5px 0;
             font-family: 'DIN';
@@ -81,8 +81,17 @@
             transition: .4s;
             &:hover {
                 color: rgb(202, 202, 202);
-                padding-left: 17.5%;
+                margin-left: 12.5%;
                 transition: .4s;
+            }
+            .download, h3 {
+                display: inline-block;
+            }
+            .download {
+                margin-left: 0;
+                max-width: 48px;
+                text-align: right;
+                filter: invert(100%);
             }
         }
         .fa-code {

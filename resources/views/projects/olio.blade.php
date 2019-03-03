@@ -78,7 +78,10 @@
                         <img src="/storage/olio-detail-5.jpg" alt="" class='detail-image'/>
                         <span>Token on the stove</span>
                         <a href="/storage/reports/olio-report.pdf" download>
-                            <button>Report</button>
+                            <button>
+                                Report
+                                <img class="download" src="/storage/download-solid.svg" alt="download link">
+                            </button>
                         </a>
                     </div>
                 </div>

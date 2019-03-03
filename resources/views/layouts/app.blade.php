@@ -108,13 +108,13 @@ ob_start("ob_gzhandler");
 
     var typewriter = new Typewriter(writer, {
         loop: true,
-        delay: 60
+        delay: 40
     });
 
     typewriter.typeString('I am Erik Wubbels, user experience designer and web developer.')
-        .pauseFor(600)
+        .pauseFor(400)
         .typeString(' Scroll down to view some of my projects. ')
-        .pauseFor(600)
+        .pauseFor(400)
         .typeString('<a href="/about">Or click here to read more about me.</a>')
         .pauseFor(60000)
         .start();

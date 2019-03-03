@@ -54,7 +54,10 @@
                 For the third and fourth deliverable I wanted to use Aluminium. To do this I made a casting oven and went over countless failed iterations, while eventually getting a decent shape for the third deliverable. The fourth, however was a shape that was a bit too much for a garden oven. 
             </p>
             <a href="/storage/reports/bfs-report.pdf" download>
-                <button>Report</button>
+                <button>
+                    Report
+                    <img class="download" src="/storage/download-solid.svg" alt="download link">
+                </button>
             </a>
         </div>
     </div>

@@ -9,7 +9,6 @@
                 <source src="/storage/escaperoom.mp4" type="video/mp4">
             </video>
         </div>
-        {{-- <a href="#escaperoom-text" class="scroll-down"></a> --}}
     </div>
 
     <div class="project-text" id="escaperoom-text">
@@ -64,7 +63,10 @@
                 <span>instructions</span>
             </blockquote>
             <a href="/storage/reports/escaperoom-report.pdf" download>
-                <button>Report download</button>
+                <button>
+                    Report
+                    <img class="download" src="/storage/download-solid.svg" alt="download link">
+                </button>
             </a>
         </div>
     </div>

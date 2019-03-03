@@ -35,36 +35,27 @@
             <img src="/storage/profiel-extra.jpg" class="profile2" alt="">
         </div>
     </div>
-    <ul class="links-out">
+    <div class="contact-info">
+        <h3>Feel free to contact me</h3>
+        <ul class="links-out">
+            <li>
+                <a href="https://www.linkedin.com">
+                    <img class="social-icon" src="/storage/linkedin-brands.svg" alt="github link" style="max-width:90px;">&nbsp;
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/Username9001">
+                    <img class="social-icon" src="/storage/github-brands.svg" alt="github link" style="max-width:90px;">&nbsp;&nbsp;
+                </a>
+            </li>
+        </ul>
+        <ul class="contact-details">
+            <li><a href = "mailto: erik.wubbels@gmail.com">erik.wubbels@gmail.com</a></li>
+            <li>0636328417</li>
+            {{-- <li><a href="https://www.facebook.com/ErikWubbelsFotografie">Facebook</a></li> --}}
+        </ul>
+    </div>
 
-        <li>
-            <a href="https://www.linkedin.com">
-                <img class="social-icon" src="/storage/linkedin-brands.svg" alt="github link" style="max-width:90px;">&nbsp;
-            </a>
-        </li>
-    {{-- <a href="https://500px.com/erikurkurkle">
-        <li>
-            <i class="fab fa-500px"></i>&nbsp;
-        </li>
-    </a> --}}
-    
-        <li>
-            <a href="https://github.com/Username9001">
-                <img class="social-icon" src="/storage/github-brands.svg" alt="github link" style="max-width:90px;">&nbsp;&nbsp;
-            </a>
-        </li>
-
-        {{-- <li>
-            <a href="http://188.166.86.75">
-                <img src="/storage/TT_logo_grey.png" alt="" class="TT-logo">
-            </a>
-        </li>
-        <li>
-            <a href="http://clickbaitwarez.com/list">
-                <img src="/storage/clickb4it.png" alt="" class="clickb4it-logo">
-            </a>
-        </li> --}}
-    </ul>
 </div>
 
 <style scoped>
