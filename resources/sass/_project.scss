@@ -32,6 +32,12 @@
         .team li {
             display: inline;
         }
+        .responsibilities {
+            width: 50%;
+            li {
+                width: auto;
+            }
+        }
         p {
             padding: 10px;
             line-height: 2.2rem;

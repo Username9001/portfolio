@@ -19,6 +19,14 @@
             <li>E.Y. Wubbels</li>
         </ul>
         <div class="project-description">
+            <div class="responsibilities">
+                <h3>Responsibilities</h3>
+                <ul class="resp-list">
+                    <li>Programming Arduino</li>
+                    <li>Managing electronics</li>
+                    <li>Formgiving</li>
+                </ul>
+            </div>
             <video autoplay controls="controls" id="helios-video">
                 <source src="/storage/helios-video.mp4" type="video/mp4">
             </video>

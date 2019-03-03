@@ -19,6 +19,14 @@
                     <li>E.Y. Wubbels</li>
                 </ul>
                 <div class="project-description">
+                    <div class="responsibilities">    
+                        <h3>Responsibilities</h3>
+                        <ul class="resp-list">
+                            <li>Programming Arduino</li>
+                            <li>Managing electronics</li>
+                            <li>Creating custom circuit boards</li>
+                        </ul>
+                    </div>
                     <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                         "It is designed to mimic the natural opening movement of a flower, giving the music a blooming aesthetic."
                         <hr>

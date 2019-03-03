@@ -19,6 +19,13 @@
             <li>E.Y. Wubbels</li>
         </ul>
         <div class="project-description">
+            <div class="responsibilities">
+                <h3>Responsibilities</h3>
+                <ul class="main-responsibilities">
+                    <li>Programming Arduino</li>
+                    <li>Managing electronics</li>
+                </ul>
+            </div>
             {{-- <h2>Project Description</h2> --}}
             <blockquote data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                 "Bug an object without adding new functionality to it. It should maintain it’s original purpose, while getting a character that people can bond and interact with."
