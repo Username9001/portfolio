@@ -38,8 +38,7 @@ ob_start("ob_gzhandler");
                             <li><a href="/projects/mugen">mugen</a></li>
                             <li><a href="/projects/olio">olio</a></li>
                             <li><a href="/projects/bfs">Formgiving</a></li>
-                            <li><a href="/projects/escaperoom">escape</a></li>
-                            <hr>
+                            <li style="margin-bottom:10px;"><a href="/projects/escaperoom">escape</a></li>
                             <li><a href="/clickb4it">clickb4it</a></li>
                             <li><a href="/tomstech">TomsTech</a></li>
                         </ul>
