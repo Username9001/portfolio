@@ -8,7 +8,7 @@
             <h1>Basic Formgiving Skills</h1>
         </div>
         
-        <a href="#bfs-text" class="scroll-down"></a>
+        <a href="#bfs-text" class="scroll-down" aria-label="scroll"></a>
     </div>
     <div class="project-text" id="bfs-text">
         <ul class="team">

@@ -9,7 +9,7 @@
                 <div class="project-header">
                     <h1>Olio</h1>
                 </div>
-                <a href="#olio-text" class="scroll-down"></a>
+                <a href="#olio-text" class="scroll-down" aria-label="scroll"></a>
             </div>
             <div class="project-text" id="olio-text">
                 <ul class="team">

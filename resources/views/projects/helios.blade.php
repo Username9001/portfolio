@@ -8,7 +8,7 @@
             <h1>Helios</h1>
         </div>
         
-        <a href="#helios-text" class="scroll-down"></a>
+        <a href="#helios-text" class="scroll-down" aria-label="scroll"></a>
     </div>
     <div class="project-text" id="helios-text">
         <ul class="team">
@@ -58,7 +58,7 @@
             <span>Helios at a demonstration</span>
             {{-- <img src="/storage/helios-detail-6.png" alt="" class='detail-image' data-aos="fade" data-aos-duration="2500" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom"> --}}
             {{-- <span>Helios close-up</span> --}}
-            <a href="https://github.com/Username9001/helios.git" target="_blank">
+            <a href="https://github.com/Username9001/helios.git" target="_blank" rel="noopener noreferrer">
                 <button>Code</button>
             </a>
             <a href="/storage/reports/helios-report.pdf" download>

@@ -7,7 +7,7 @@
         <blockquote id="welcome-message">
         </blockquote>
         <a href="#projects" aria-label="project-index">
-            <div class="scroll-down">
+            <div class="scroll-down" aria-label="scroll">
                 <div></div>
             </div>
         </a>

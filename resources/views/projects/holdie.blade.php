@@ -7,7 +7,7 @@
         <div class="project-header">
             <h1>Holdie</h1>
         </div>
-        <a href="#holdie-text" class="scroll-down"></a>
+        <a href="#holdie-text" class="scroll-down" aria-label="scroll"></a>
     </div>
 
     <div class="project-text" id="holdie-text">
