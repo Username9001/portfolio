@@ -43,21 +43,29 @@ self.addEventListener('fetch', function(event) {
 	);
   });
   
-  function fetchAndCache(url) {
-	return fetch(url)
-	.then(function(response) {
-	  // Check if we received a valid response
-	  if (!response.ok) {
-		throw Error(response.statusText);
-	  }
-	  return caches.open(CACHE_NAME)
-	  .then(function(cache) {
-		cache.put(url, response.clone());
-		return response;
-	  });
-	})
-	.catch(function(error) {
-	  console.log('Request failed:', error);
-	  // You could return a custom offline 404 page here
-	});
-  }
+  let CACHE_NAME = 'sw-v1'
+  self.addEventListener('install', (event) => {
+	event.waitUntil(
+	  caches.open(CACHE_NAME)
+	  .then(cache => cache.addAll('./404.html'))
+	)
+  })
+  self.addEventListener('fetch', (event) => {
+	if (event.request.method === 'GET') {
+	  event.respondWith(
+		caches.match(event.request)
+		.then((cached) => {
+		  var networked = fetch(event.request)
+			.then((response) => {
+			  let cacheCopy = response.clone()
+			  caches.open(CACHE_NAME)
+				.then(cache => cache.put(event.request, cacheCopy))
+			  return response;
+			})
+			.catch(() => caches.match(offlinePage));
+		  return cached || networked;
+		})
+	  )
+	}
+	return;
+  });
