@@ -36,9 +36,9 @@
                     </p>
 
                     <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
-                        "Something about the feedback on the rotation"
+                        "The way it closes makes me feel like I'm in control of the sound more directly."
                         <hr>
-                        <span class="bc-span">Feedback giver</span>
+                        <span class="bc-span">User during interview</span>
                     </blockquote>
                     <img src="/storage/mugen-detail-4.jpg" alt="" class='detail-image'>
                     <span>New span to give detailed description</span>

@@ -37,7 +37,7 @@
                         it was chosen as the research environment.
                     </p>
                     <img src="/storage/olio-detail.jpg" alt="" class='detail-image' />
-                    <span>Span detailing the Olio research</span>
+                    <span>Olio with all six tokens</span>
                     <p>
                         Olio is a social persuasive system, meant to trigger communication
                         and behavioural change in cleaning up of individuals
@@ -46,9 +46,9 @@
                         communal spaces. 
                     </p>
                     <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
-                        "Quote from an annoyed participant, complaining about their roommates"
+                        "I never really bother to say anything about the mess because it is too much effort. This token is ideal because it's such little effort to use."
                         <hr>
-                        <span class="bc-span">Person who got quoted</span>
+                        <span class="bc-span">User during interview</span>
                     </blockquote>
                     <p>
                         A token is placed by one of the participants when they consider something messy. 
@@ -57,7 +57,7 @@
                         This however changes when the particpants start to use it.
                     </p>
                     <img src="/storage/olio-detail-2.jpg" alt="" class='detail-image'/>
-                    <span>Span detailing the Olio research</span>
+                    <span>Research environment</span>
                         <p>
                             Olio was tested in two different student households with a
                             total of twelve participants for four weeks. It was measured by
@@ -65,18 +65,18 @@
                             individual and group interviews.
                         </p>
                         <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
-                            "Quote from feedback"
+                            "I use Olio everywhere"
                             <hr>
-                            <span class="bc-span">Feedback person</span>
+                            <span class="bc-span">Participant</span>
                             <img src="/storage/olio-detail-4.jpg" alt="" class='detail-image' />
-                            <span>Olio in the kitchen</span>
+                            <span>Token in the kitchen</span>
                         </blockquote>
                         <p>
                             The results show an increase in awareness of the mess being
                             made and showed Olio as a trigger of discussions within the group about clutter.
                         </p>
                         <img src="/storage/olio-detail-5.jpg" alt="" class='detail-image'/>
-                        <span>Olio being used on the stove</span>
+                        <span>Token on the stove</span>
                         <a href="/storage/reports/olio-report.pdf" download>
                             <button>Report</button>
                         </a>

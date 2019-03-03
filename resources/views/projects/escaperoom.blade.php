@@ -29,7 +29,7 @@
                 The goal of this course was to create a simple puzzle using a microcontroller, and then to connect these puzzles to an overlaying network. Allowing for communication between the different microcontrollers.
             </p>
             <img src="/storage/escaperoom-header.jpg" alt="" class='detail-image'>
-            <span>Span describing the escape room and use of OOCSI</span>
+            <span>The cyborgs heart used in the escape room</span>
             <p>
                 
             </p>
@@ -39,7 +39,7 @@
                 <span class="bc-span">me, while overloading the server</span>
             </blockquote>
             <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" data-aos-delay="700">
-                "I'm sorry guys, something is wrong with the servers, we are looking into it."
+                "I'm sorry none of you can connect, something is wrong with the server, we are looking into it."
                 <hr>
                 <span class="bc-span">lecturer, after i crashed the servers</span>
             </blockquote>

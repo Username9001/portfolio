@@ -29,24 +29,18 @@
             <hr>
             <span>Detail of Holdie the pencil holder</span>
             <div>
-                <h2>Approach</h2>
                 <p>
-                        We created a bugged pencilholder named Holdie. Holdie is long
-                        forgotten, covered in dust on your desk, overwhelmed by modern technology.
-                        While all he wants is to love, to be loved and to get a bit of attention every
-                        now and then. 
+                    We created a bugged pencilholder named Holdie. Holdie is long
+                    forgotten, covered in dust on your desk, overwhelmed by modern technology.
+                    While all he wants is to love, to be loved and to get a bit of attention every
+                    now and then. 
                 </p>
             </div>
             <div>
-                <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
-                    "Quote From Interview"
-                    <hr>
-                    <span class="bc-span">Random</span>
-                </blockquote>
                 <p>
-                        Therefore Holdie tries to connect and interact with people. He
-                        tries to get your attention and when he does feel love and affection, he gets
-                        this warm feeling from within and shows his love to you.
+                    Therefore Holdie tries to connect and interact with people. He
+                    tries to get your attention and when he does feel love and affection, he gets
+                    this warm feeling from within and shows his love to you.
                 </p>
             </div>
             <div data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
@@ -57,9 +51,7 @@
                     This is done through blinking and shaking after not having using anything from the pencil holder for a about a day.
                 </p>
             <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
-                "Quote about Holdie"
-                <hr>
-                <span class="bc-span">1st year student</span>
+                "Long forgotten, in a corner of your desk, stands Holdie..."
                 <hr>
                 <img src="/storage/holdie-detail-4.jpg" alt="" class='detail-image' style="max-width:50%; float:right;">
             </blockquote>
