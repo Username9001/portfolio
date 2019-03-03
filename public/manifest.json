@@ -1,0 +1,9 @@
+{
+    "name": "Portfolio Erik Wubbels",
+    "short_name": "Erik Wubbels",
+    "start_url": "/?homescreen=1",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#151515",
+    "theme_color": "#151515"
+  }

@@ -7,7 +7,7 @@ ob_start("ob_gzhandler");
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Portfolio of Erik Wubbels, User Experience designer and web developer.">
-        <meta name="theme-color" content="#141414"/>
+        <meta name="theme-color" content="#151515"/>
 
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
@@ -20,7 +20,6 @@ ob_start("ob_gzhandler");
         {{-- <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> --}}
         <link href="{{ asset('css/aos.css') }}" rel="stylesheet">
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-        
 
     </head>
     <body class="smooth">
@@ -126,6 +125,16 @@ ob_start("ob_gzhandler");
         });
     </script>
 
-
-
+    <script>
+        if ('serviceWorker' in navigator) {
+        console.log('CLIENT: service worker registration in progress.');
+        navigator.serviceWorker.register('/service-worker.js').then(function() {
+            console.log('CLIENT: service worker registration complete.');
+        }, function() {
+            console.log('CLIENT: service worker registration failure.');
+        });
+        } else {
+        console.log('CLIENT: service worker is not supported.');
+        }
+    </script>
 </html>
