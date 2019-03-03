@@ -24,6 +24,16 @@ ob_start("ob_gzhandler");
         <link href="{{ asset('css/aos.css') }}" rel="stylesheet">
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 
+        {{-- Google Analytics --}}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106607115-2"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-106607115-2');
+        </script>
+
     </head>
     <body class="smooth">
         <div id="app">
@@ -136,4 +146,6 @@ ob_start("ob_gzhandler");
         });
         } 
     </script>
+
+
 </html>
