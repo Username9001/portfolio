@@ -72,7 +72,7 @@
                 <span class="right">text</span>
             </div>
 
-            <a href="https://github.com/Username9001/holdie/blob/master/Holdie_arduino.ino" target="_blank">
+            <a href="https://github.com/Username9001/holdie/blob/master/Holdie_arduino.ino" rel="noopener noreferrer">
                 <button>Code</button>
             </a>
             <a href="/storage/reports/holdie-report.pdf" download>
