@@ -4,11 +4,10 @@ var cacheName = 'v1';
 // Default files to always cache
 var cacheFiles = [
 	'/',
-	'index.html',
-	'js/app.js',
-	'css/app.css',
-	'css/aos.css',
-	'https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic'
+	'/index.html',
+	'/js/app.js',
+	'/css/app.css',
+	'/css/aos.css'
 ]
 
 
