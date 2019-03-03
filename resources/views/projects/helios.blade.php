@@ -42,8 +42,7 @@
                 <span class="bc-span">User #59238</span>
             </blockquote>
             <p>
-                The system had gone through a handful of iterations before arriving at the final choice for the Helios panel.
-                Displaying straight lines centered from within, creating a bird's eye view from the room reflected in the panel.
+                The final form of the Helios panel mirrors the sun, displaying straight lines centered from within, creating a bird's eye view from the room reflected in the panel.
             </p>
             <img src="/storage/helios-detail-6.jpg" alt="" class='detail-image' style="height: 480px;" data-aos="fade" data-aos-duration="3000" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
             <span>More spans to span descriptions</span>
@@ -55,16 +54,10 @@
                 <hr>
                 <span class="bc-span">Confused user during interview</span>
             </blockquote>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae nobis veniam quas animi odit illo inventore accusantium, blanditiis amet quos soluta deserunt facere doloremque, vitae id sunt a? Fugit dolore eaque, architecto inventore magnam quas recusandae, obcaecati quia ipsa sapiente atque. Voluptatum ex beatae soluta non nemo sunt aut doloremque?
-            </p>
             <img src="/storage/helios-detail-4.jpg" alt="" class='detail-image' data-aos="fade-right" data-aos-duration="3000" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
             <span>Helios at a demonstration</span>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, mollitia natus reprehenderit voluptatibus repellat nulla?
-            </p>
-            <img src="/storage/helios-detail-6.png" alt="" class='detail-image' data-aos="fade" data-aos-duration="2500" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
-            <span>Helios close-up</span>
+            {{-- <img src="/storage/helios-detail-6.png" alt="" class='detail-image' data-aos="fade" data-aos-duration="2500" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom"> --}}
+            {{-- <span>Helios close-up</span> --}}
             <a href="https://github.com/Username9001/helios.git" target="_blank">
                 <button>Code</button>
             </a>

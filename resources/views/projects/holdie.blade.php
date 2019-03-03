@@ -54,7 +54,7 @@
                 <span>More detail description</span>
             </div>
                 <p>
-                    More description about the design process and multiple iterations of the form of Holdie
+                    This is done through blinking and shaking after not having using anything from the pencil holder for a about a day.
                 </p>
             <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                 "Quote about Holdie"
@@ -65,10 +65,7 @@
             </blockquote>
             <div>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia esse repellat nesciunt autem distinctio consequuntur earum optio beatae in a, voluptatem possimus? Dignissimos, rerum. Possimus provident dolorem repellendus aliquam delectus impedit modi itaque quae? A fugit dolor illum corrupti incidunt?
-                </p>
-                <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi facilis minima voluptatum modi necessitatibus odit molestiae? Molestiae laborum quaerat voluptate doloremque qui?
+                    The responsiveness is controlled by capacitive sensors in the on the inside of the 3D printed model of Holdie, measuring whether someone has been near to trigger a time-out on its cry for attention.
                 </p>
             </div>
             <div data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">

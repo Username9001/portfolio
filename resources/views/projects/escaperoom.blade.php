@@ -47,22 +47,25 @@
                 These tools work together on the OOCSI network, where they can communicate and let the players have a constant thread running through the areas.
             </p>
             <img src="/storage/escaperoom-detail-4.jpg" alt="" class='detail-image'>
-            <span>empty escape room</span>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ea pariatur eaque voluptate praesentium, facere fugiat corrupti, quae fuga dolor et porro a vitae ullam asperiores ducimus consequatur quibusdam unde.
-            </p>
+            <span style="padding-bottom:20px;">empty escape room</span>
+
             <img src="/storage/escaperoom-detail-2.jpg" alt="" class='detail-image'>
             <span>full escape room</span>
             <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo accusamus voluptas assumenda minus sit numquam et sed error quia est.
+                The goal for the players is to decide whether to trust the cyborg or the AI or none of the above, and pick the right phone number accordingly. During this they are faced with other challenges such as a seemingly dead cyborg in the middle of the room. 
             </p>
             <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
-                "Quote about game rules in the escape room"
+                "We're sorry, the number you have dialed is not in service at this time..."
+                <hr>
+                <span>Response of dialing the wrong number</span>
                 <hr>
                 <img src="/storage/escaperoom-detail.jpg" alt="" class='detail-image' style="width:40%; margin-left:0;">
                 <hr>
                 <span>instructions</span>
             </blockquote>
+            <a href="/storage/reports/escaperoom-report.pdf" download>
+                <button>Report download</button>
+            </a>
         </div>
     </div>
 </div>

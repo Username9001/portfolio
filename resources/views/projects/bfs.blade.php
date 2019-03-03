@@ -21,47 +21,46 @@
                 <span class="bc-span">Me, sometime</span>
             </blockquote>
             <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium ea animi velit eaque, molestiae ipsa consectetur odit? Consectetur, officiis! Corporis omnis cum delectus itaque expedita. Porro nisi ab recusandae. Quas!
+                In this course I learned about classical formgiving skills. Through ideation of form and critically arguing my choices and creating these forms in a short amount of time.
             </p>
             <img src="/storage/bfs-detail.jpg" alt="" class='detail-image' data-aos="fade" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
             <span>Socket based on cube & sphere</span>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, ea accusamus deleniti veniam unde mollitia eos. Cumque unde esse nam.
-            </p>
             <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                 "What the hell is that...&nbsp;&nbsp;&nbsp;...Is that a socket?!"
                 <hr>
                 <span class="bc-span">T. de Jong</span>
             </blockquote>
             <p>
-                This socket is the combination of two essential spacial shapes, the cube and the sphere.
-                Made robust to withstand the clumsiness people experience when plugging their electronics in sockets.
+                During the course I made four objects, each within one or two weeks. Starting out horribly I made some decent progress towards the end. Below are the assignments final deliverables.
             </p>
             <div class="shift-left">
                 <blockquote data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                     "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta neque deserunt iusto. "
                         <img src="/storage/bfs-detail-2.jpg" alt="" class='detail-image'>
-                        <span>assignment #</span>
+                        <span>Deliverable 1: Copying an existing socket shape</span>
                 </blockquote>
                 <blockquote style="margin-left:15%;" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                     "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta neque deserunt iusto. "
                         <img src="/storage/bfs-detail-3.jpg" alt="" class='detail-image'>
-                        <span>assignment #</span>
+                        <span>Deliverable 2: Combine two shapes into a coherent shape. Combined a box with a cilinder, adding a lip for flow.</span>
                 </blockquote>
                 <blockquote style="margin-left:30%;" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                         "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta neque deserunt iusto. "
                         <img src="/storage/bfs-detail-4.jpg" alt="" class='detail-image'>
-                        <span>assignment #</span>
+                        <span>Deliverable 3: Copying a single shape in different materials. Materials used: Stone, Wood, Aluminium</span>
                     </blockquote>                
                 <blockquote style="margin-left:45%;" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                     "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta neque deserunt iusto. "
                         <img src="/storage/bfs-detail-5.jpg" alt="" class='detail-image'>
-                        <span>assignment #</span>
+                        <span>Deliverable 4: This socket is the combination of two essential spacial shapes, the cube and the sphere. Made robust to withstand the clumsiness people experience when plugging their electronics in sockets.</span>
                 </blockquote>
             </div>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, doloremque beatae. In incidunt repellat sit.
+                For the third and fourth deliverable I wanted to use Aluminium. To do this I made a casting oven and went over countless failed iterations, while eventually getting a decent shape for the third deliverable. The fourth, however was a shape that was a bit too much for a garden oven. 
             </p>
+            <a href="/storage/reports/bfs-report.pdf" download>
+                <button>Report</button>
+            </a>
         </div>
     </div>
 </div>
