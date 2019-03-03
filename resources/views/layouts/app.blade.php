@@ -11,6 +11,9 @@ ob_start("ob_gzhandler");
 
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
+        {{-- Web App Manifest --}}
+        <link rel="manifest" href="/manifest.json">
+
         <title>Erik Wubbels</title>
 
         <!-- Fonts -->
