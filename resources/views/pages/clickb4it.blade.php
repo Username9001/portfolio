@@ -11,15 +11,15 @@
             <div class="slideshow-container">
                 <div class="slides car-fade">
                     <img src="/storage/clickb4it_fs.jpg" alt="" class="detail-image">
-                    <span class="right">main page</span>
+                    <span class="right">clickbaitwarez.com webshop main page</span>
                 </div>
                 <div class="slides car-fade">
                     <img src="/storage/screenshots/CB_product.png" alt="" class='detail-image'>
-                    <span class="right">product page</span>
+                    <span class="right">clickbaitwarez.com webshop product page</span>
                 </div>
                 <div class="slides car-fade">
                     <img src="/storage/screenshots/CB_cart.png" alt="" class='detail-image'>
-                    <span class="right">shopping cart page</span>
+                    <span class="right">clickbaitwarez.com webshop shopping cart page</span>
                 </div>
                 <!-- Next and previous buttons -->
                 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>

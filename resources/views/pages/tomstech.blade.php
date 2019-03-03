@@ -11,15 +11,15 @@
             <div class="slideshow-container">
                 <div class="slides car-fade">
                     <img src="/storage/TomsTech_fs.jpg" alt="" class="detail-image">
-                    <span class="right">main page</span>
+                    <span class="right">tomstech.nl technology blog main page</span>
                 </div>
                 <div class="slides car-fade">
                     <img src="/storage/screenshots/TT_article.png" alt="" class='detail-image'>
-                    <span class="right">individual article page</span>
+                    <span class="right">tomstech.nl technology blog individual article page</span>
                 </div>
                 <div class="slides car-fade">
                     <img src="/storage/screenshots/TT_category.png" alt="" class='detail-image'>
-                    <span class="right">category page</span>
+                    <span class="right">tomstech.nl technology blog category page</span>
                 </div>
                 <!-- Next and previous buttons -->
                 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>

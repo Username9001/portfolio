@@ -68,6 +68,9 @@
             <a href="https://github.com/Username9001/helios.git" target="_blank">
                 <button>Code</button>
             </a>
+            <a href="/storage/reports/helios-report.pdf" download>
+                <button>Report</button>
+            </a>
         </div>
     </div>
 </div>

@@ -57,7 +57,7 @@
                     More description about the design process and multiple iterations of the form of Holdie
                 </p>
             <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
-                "Quote about Holdie getting someone throwing their laptops away and becoming a writer"
+                "Quote about Holdie"
                 <hr>
                 <span class="bc-span">1st year student</span>
                 <hr>
@@ -76,8 +76,11 @@
                 <span class="right">text</span>
             </div>
 
-            <a href="https://github.com/Username9001/holdie.git" target="_blank">
+            <a href="https://github.com/Username9001/holdie/blob/master/Holdie_arduino.ino" target="_blank">
                 <button>Code</button>
+            </a>
+            <a href="/storage/reports/holdie-report.pdf" download>
+                <button>Report</button>
             </a>
 
         </div>

@@ -77,6 +77,9 @@
                         </p>
                         <img src="/storage/olio-detail-5.jpg" alt="" class='detail-image'/>
                         <span>Olio being used on the stove</span>
+                        <a href="/storage/reports/olio-report.pdf" download>
+                            <button>Report</button>
+                        </a>
                     </div>
                 </div>
             </div>
