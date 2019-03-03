@@ -13,7 +13,7 @@ ob_start("ob_gzhandler");
 
         {{-- Web App Manifest --}}
         <link rel="manifest" href="/manifest.json">
-        <link rel="icon" href="/icon-72x72.png">
+        <link rel="icon" href="/images/icons/icon-72x72.png">
 
         <title>Erik Wubbels</title>
 
