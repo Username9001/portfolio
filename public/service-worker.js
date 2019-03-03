@@ -31,7 +31,7 @@ self.addEventListener('install', function(e) {
 self.addEventListener('activate', function(e) {
     console.log('[ServiceWorker] Activated');
 
-    e.waitUntil(
+
 
     	// Get all the cache keys (cacheName)
 		caches.keys().then(function(cacheNames) {
@@ -46,7 +46,7 @@ self.addEventListener('activate', function(e) {
 				}
 			}));
 		})
-	); // end e.waitUntil
+
 
 });
 
