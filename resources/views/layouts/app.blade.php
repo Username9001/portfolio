@@ -111,26 +111,6 @@ ob_start("ob_gzhandler");
             }
         });
     </script>
-
-    <script src="https://unpkg.com/typewriter-effect/dist/core.js"></script>
-    
-
-    <script>
-    var writer = document.getElementById('welcome-message');
-
-    var typewriter = new Typewriter(writer, {
-        loop: true,
-        delay: 40
-    });
-
-    typewriter.typeString('I am Erik Wubbels, user experience designer and web developer.')
-        .pauseFor(400)
-        .typeString(' Scroll down to view some of my projects. ')
-        .pauseFor(400)
-        .typeString('<a href="/about">Or click here to read more about me.</a>')
-        .pauseFor(60000)
-        .start();
-    </script>
     <script>
         $(document).ready(function(){
             $(".dropdown").click(function(){
