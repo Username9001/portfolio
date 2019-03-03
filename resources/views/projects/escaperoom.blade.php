@@ -5,7 +5,7 @@
 <div id="escaperoom-description" class="project-single">
     <div class="project-hero-video">
         <div class="project-header">
-            <video  controls="controls" id="escaperoomVideo">
+            <video autoplay controls="controls" id="escaperoomVideo">
                 <source src="/storage/escaperoom.mp4" type="video/mp4">
             </video>
         </div>
