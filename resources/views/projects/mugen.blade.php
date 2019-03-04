@@ -61,9 +61,7 @@
                     </p>
                     <img src="/storage/mugen-detail-5.png" alt="" class='detail-image lazy' style="filter:invert(100%)" data-aos="fade" data-aos-duration="2500" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                     <span>Custom printed circuit board layout for Mugen controller</span>
-                    <video controls="controls" id="mugen-video" data-aos="zoom-in-down" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
-                        <source src="/storage/mugen-video.mp4" type="video/mp4">
-                    </video>                    
+                  
                     <p>
                         The Mugen speakers give a haptic enhancement to the volume when you rotate it, as seen above. When two speakers move towards each other, the volume goes down and eventually when they touch and close, the volume drops to zero.
                     </p>

@@ -51,6 +51,8 @@
                         <hr>
                         <span class="bc-span">User during interview</span>
                     </blockquote>
+                    <img src="/storage/olio-detail-7.png" alt="" class='detail-image lazy' style="filter:invert(100%);" data-aos="fade" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom"/>
+                    <span>Custom circuit boards for Olio</span>
                     <p>
                         A token is placed by one of the participants when they consider something messy. 
                         It then is expected that the tagged participant will adjust their behaviour within the communal space.
