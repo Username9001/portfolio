@@ -10,7 +10,8 @@ const PRECACHE_URLS = [
   '/', // Alias for index.html
   '/css/app.css',
   '/css/aos.css',
-  '/js/app.js'
+  '/js/app.js',
+  '/storage/DIN.woff2'
 ];
 
 // The install handler takes care of precaching the resources we always need.

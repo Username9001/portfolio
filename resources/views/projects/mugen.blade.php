@@ -5,7 +5,7 @@
         <div id="mugen-description" class="project-single">
             <div class="project-hero-video">
                 <div class="project-header">
-                    <video controls="controls" id="escaperoomVideo">
+                    <video autoplay controls="controls" id="escaperoomVideo">
                         <source src="/storage/mugen-video.mp4" type="video/mp4">
                     </video>
                 </div>
@@ -19,14 +19,7 @@
                     <li>E.Y. Wubbels</li>
                 </ul>
                 <div class="project-description">
-                    <div class="responsibilities">    
-                        <h3>Responsibilities</h3>
-                        <ul class="resp-list">
-                            <li>Programming Arduino</li>
-                            <li>Managing electronics</li>
-                            <li>Creating custom circuit boards</li>
-                        </ul>
-                    </div>
+                    
                     <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                         "It is designed to mimic the natural opening movement of a flower, giving the music a blooming aesthetic."
                         <hr>
@@ -79,6 +72,14 @@
                     <a href="https://github.com/Username9001/mugen/blob/master/Mugen_arduino.ino" target="_blank" rel="noopener noreferrer">
                         <button>Code</button>
                     </a>
+                    <div class="responsibilities">    
+                        <h3>Responsibilities</h3>
+                        <ul class="resp-list">
+                            <li>Programming Arduino</li>
+                            <li>Managing electronics</li>
+                            <li>Creating custom circuit boards</li>
+                        </ul>
+                    </div>
                     <a href="/storage/reports/mugen-report.pdf" download>
                         <button>
                             <h3>Report</h3>

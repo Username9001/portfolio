@@ -17,11 +17,6 @@ ob_start("ob_gzhandler");
 
         <title>Erik Wubbels</title>
 
-        <!-- Fonts -->
-        {{-- <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700" rel="stylesheet" type="text/css"> --}}
-        {{-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"> --}}
-
-        {{-- <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> --}}
         <link href="{{ asset('css/aos.css') }}" rel="stylesheet">
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 
@@ -31,7 +26,6 @@ ob_start("ob_gzhandler");
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-
         gtag('config', 'UA-106607115-2');
         </script>
 
@@ -71,62 +65,6 @@ ob_start("ob_gzhandler");
         </div>
     </body>
 
-    <script
-    src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-    integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
-    crossorigin="anonymous"></script>
-
-    
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="{!! asset('/js/app.js') !!}"></script>
-    <script>
-        AOS.init();
-    </script>
-
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.4/jquery.lazy.min.js"></script>
-    <script>
-        $(function() {
-            $('.lazy').lazy();
-        });
-    </script>
-
-    <script type="text/javascript">
-        var timer;
-
-        $(window).on('mousemove touchmove', function (e) {
-            var upSide = (window.innerHeight)/4;
-            var mouseY=(e.pageY - $(window).scrollTop());
-            if(mouseY<upSide) {
-                $('#navbar').addClass('show');
-            }
-            try {
-                clearTimeout(timer);
-            } catch (e) {}
-            if($('.dropdown-content').is(':hover')) {
-
-            } else {
-                timer = setTimeout(function () {
-                    $('#navbar').removeClass('show');
-                }, 2800);
-            }
-        });
-    </script>
-    <script>
-        $(document).ready(function(){
-            $(".dropdown").click(function(){
-            $("#navbar").toggleClass("toggled");
-            });
-        });
-    </script>
-
-    <script>
-        if ('serviceWorker' in navigator) {
-        console.log('CLIENT: service worker registration in progress.');
-        navigator.serviceWorker.register('/service-worker.js').then(function() {
-            console.log('CLIENT: service worker registration complete.');
-        });
-        } 
-    </script>
-
 
 </html>

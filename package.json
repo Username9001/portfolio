@@ -21,11 +21,14 @@
         "sass": "^1.17.2",
         "sass-loader": "^7.1.0",
         "vue": "^2.6.7",
-        "vue-template-compiler": "^2.6.7"
+        "vue-template-compiler": "^2.6.8"
     },
     "dependencies": {
         "@glidejs/glide": "^3.2.6",
+        "aos": "^3.0.0-beta.6",
+        "jquery-lazy": "^1.7.10",
         "laravel-mix-purgecss": "^4.1.0",
-        "siema": "^1.5.1"
+        "siema": "^1.5.1",
+        "typewriter-effect": "^2.5.2"
     }
 }

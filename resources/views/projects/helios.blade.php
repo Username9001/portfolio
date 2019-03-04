@@ -19,14 +19,7 @@
             <li>E.Y. Wubbels</li>
         </ul>
         <div class="project-description">
-            <div class="responsibilities">
-                <h3>Responsibilities</h3>
-                <ul class="resp-list">
-                    <li>Programming Arduino</li>
-                    <li>Managing electronics</li>
-                    <li>Formgiving</li>
-                </ul>
-            </div>
+
             <video autoplay controls="controls" id="helios-video">
                 <source src="/storage/helios-video.mp4" type="video/mp4">
             </video>
@@ -56,8 +49,14 @@
             </blockquote>
             <img src="/storage/helios-detail-4.jpg" alt="" class='detail-image' data-aos="fade-right" data-aos-duration="3000" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
             <span>Helios at a demonstration</span>
-            {{-- <img src="/storage/helios-detail-6.png" alt="" class='detail-image' data-aos="fade" data-aos-duration="2500" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom"> --}}
-            {{-- <span>Helios close-up</span> --}}
+            <div class="responsibilities">
+                <h3>Responsibilities</h3>
+                <ul class="resp-list">
+                    <li>Programming Arduino</li>
+                    <li>Managing electronics</li>
+                    <li>Formgiving</li>
+                </ul>
+            </div>
             <a href="https://github.com/Username9001/helios.git" target="_blank" rel="noopener noreferrer">
                 <button>Code</button>
             </a>

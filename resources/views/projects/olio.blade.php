@@ -18,14 +18,7 @@
                     <li>E.Y. Wubbels</li>
                 </ul>
                 <div class="project-description">
-                    <div class="responsibilities">
-                        <h3>Responsibilities</h3>
-                        <ul class="resp-list">
-                            <li>Programming Arduino</li>
-                            <li>Managing electronics</li>
-                            <li>Creating custom circuit boards</li>
-                        </ul>
-                    </div>
+
                     <blockquote data-aos="fade-right" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                         "Can an interactive tagging tool change behaviour and create a feeling of shared responsibility concerning clutter in communal kitchens in student houses?"
                         <hr>
@@ -85,6 +78,14 @@
                         </p>
                         <img src="/storage/olio-detail-5.jpg" alt="" class='detail-image'/>
                         <span>Token on the stove</span>
+                        <div class="responsibilities">
+                            <h3>Responsibilities</h3>
+                            <ul class="resp-list">
+                                <li>Programming Arduino</li>
+                                <li>Managing electronics</li>
+                                <li>Creating custom circuit boards</li>
+                            </ul>
+                        </div>
                         <a href="/storage/reports/olio-report.pdf" download>
                             <button>
                                 Report

@@ -19,14 +19,7 @@
             <li>E.Y. Wubbels</li>
         </ul>
         <div class="project-description">
-            <div class="responsibilities">
-                <h3>Responsibilities</h3>
-                <ul class="resp-list">
-                    <li>Programming Arduino</li>
-                    <li>Managing Electronics</li>
-                    <li>Movie Editing</li>
-                </ul>
-            </div>
+
             <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                 "Hi there Cyborg Hunters, it's me, Drake."
                 <hr>
@@ -70,6 +63,14 @@
                 <hr>
                 <span>instructions</span>
             </blockquote>
+            <div class="responsibilities">
+                <h3>Responsibilities</h3>
+                <ul class="resp-list">
+                    <li>Programming Arduino</li>
+                    <li>Managing Electronics</li>
+                    <li>Movie Editing</li>
+                </ul>
+            </div>
             <a href="/storage/reports/escaperoom-report.pdf" download>
                 <button>
                     Report
