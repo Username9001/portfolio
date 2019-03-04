@@ -56,7 +56,7 @@
                     <p>
                         A token is placed by one of the participants when they consider something messy. 
                         It then is expected that the tagged participant will adjust their behaviour within the communal space.
-                        The system is easy to use and relatively unobtrusive on it's own. 
+                        The system is easy to use and relatively unobtrusive on its own. 
                         This however changes when the particpants start to use it.
                     </p>
                     <img src="/storage/olio-detail-2.jpg" alt="" class='detail-image lazy'/>
@@ -83,6 +83,7 @@
                         <div class="responsibilities">
                             <h3>Responsibilities</h3>
                             <ul class="resp-list">
+                                <li>Holding Interviews</li>
                                 <li>Programming Arduino</li>
                                 <li>Managing electronics</li>
                                 <li>Creating custom circuit boards</li>

@@ -8,7 +8,7 @@ import Typewriter from 'typewriter-effect/dist/core';
 // Navbar Animation
 var timer;
 $(window).on('mousemove touchmove', function (e) {
-    var upSide = (window.innerHeight)/4;
+    var upSide = (window.innerHeight)/2;
     var mouseY=(e.pageY - $(window).scrollTop());
     if(mouseY<upSide) {
         $('#navbar').addClass('show');

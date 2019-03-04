@@ -21,38 +21,18 @@
         <div class="project-description">
 
             <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
-                "Hi there Cyborg Hunters, it's me, Drake."
+                Design a module for an escape room. Then make it communicate with other modules through a simple systems-interaction fabric, the OOCSI network. Lastly, make a level in an escape room, using these modules.
                 <hr>
-                <span class="bc-span">Drake, 2018</span>
+                <span>Project Description</span>
             </blockquote>
             <p>
-                The goal of this course was to create a simple puzzle using a microcontroller, and then to connect these puzzles to an overlaying network. Allowing for communication between the different microcontrollers.
+                The module is a 3D printed beating heart, belonging to the dead cyborg that is in the middle of the room.
+                This module is designed to create a tense and pressured atmosphere for the players. And help the level designers to use it as a measurement through light.
             </p>
             <img src="/storage/escaperoom-header.jpg" alt="" class='detail-image'>
-            <span>The cyborgs heart used in the escape room</span>
+            <span>The cyborg heart</span>
             <p>
-                
-            </p>
-            <blockquote data-aos="fade-left" data-aos-duration="1600" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
-                "Why won't it respond, and why is the server kicking us out over and over again?"
-                <hr>
-                <span class="bc-span">me, while overloading the server</span>
-            </blockquote>
-            <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" data-aos-delay="700">
-                "I'm sorry none of you can connect, something is wrong with the server, we are looking into it."
-                <hr>
-                <span class="bc-span">lecturer, after i crashed the servers</span>
-            </blockquote>
-            <p>
-                These tools work together on the OOCSI network, where they can communicate and let the players have a constant thread running through the areas.
-            </p>
-            <img src="/storage/escaperoom-detail-4.jpg" alt="" class='detail-image lazy'>
-            <span style="padding-bottom:20px;">empty escape room</span>
-
-            <img src="/storage/escaperoom-detail-2.jpg" alt="" class='detail-image lazy'>
-            <span>full escape room</span>
-            <p>
-                The goal for the players is to decide whether to trust the cyborg or the AI or none of the above, and pick the right phone number accordingly. During this they are faced with other challenges such as a seemingly dead cyborg in the middle of the room. 
+                The goal of the level is to decide whether to trust the cyborg or the AI or none of the above, and pick the right phone number accordingly. During this they are faced with other challenges such as a seemingly dead cyborg in the middle of the room. 
             </p>
             <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                 "We're sorry, the number you have dialed is not in service at this time..."
@@ -63,6 +43,14 @@
                 <hr>
                 <span>instructions</span>
             </blockquote>
+            <p>
+                Facing different challenges and triggering the right modules will help you escape the room.
+            </p>
+            <img src="/storage/escaperoom-detail-4.jpg" alt="" class='detail-image lazy'>
+            <span style="padding-bottom:20px;">empty escape room</span>
+
+            <img src="/storage/escaperoom-detail-2.jpg" alt="" class='detail-image lazy'>
+            <span>full escape room</span>
             <div class="responsibilities">
                 <h3>Responsibilities</h3>
                 <ul class="resp-list">

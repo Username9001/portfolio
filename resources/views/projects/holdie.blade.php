@@ -37,6 +37,14 @@
                     now and then. 
                 </p>
             </div>
+            <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
+                "Long forgotten, in a corner of your desk, stands Holdie..."
+                <hr>
+                <img src="/storage/holdie-detail-4.jpg" alt="" class='detail-image lazy' style="max-width:50%;">
+            </blockquote>
+            <blockquote style="text-align:right;" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
+                "...shaking and blinking to grab your attention."
+            </blockquote>
             <div>
                 <p>
                     Therefore Holdie tries to connect and interact with people. He
@@ -51,11 +59,6 @@
                 <p>
                     This is done through blinking and shaking after not having using anything from the pencil holder for a about a day.
                 </p>
-            <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
-                "Long forgotten, in a corner of your desk, stands Holdie..."
-                <hr>
-                <img src="/storage/holdie-detail-4.jpg" alt="" class='detail-image lazy' style="max-width:50%; float:right;">
-            </blockquote>
             <div>
                 <p>
                     The responsiveness is controlled by capacitive sensors in the on the inside of the 3D printed model of Holdie, measuring whether someone has been near to trigger a time-out on its cry for attention.

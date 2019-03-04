@@ -20,8 +20,8 @@
                 </ul>
                 <div class="project-description">
                     
-                    <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
-                        "It is designed to mimic the natural opening movement of a flower, giving the music a blooming aesthetic."
+                    <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out">
+                        Designed to mimic the blooming motion of a flower
                         <hr>
                     </blockquote>
                     <p>
@@ -33,8 +33,8 @@
                     <span>Mugen first iteration</span>
                     <p>
                         It is designed to mimic the natural opening movement of
-                        a flower, giving the music a ‘blooming’ aesthetic. This is configured by using
-                        different modes, that are allocated to several magnetic contact points in the
+                        a flower. This is configured by using
+                        different modes, that are allocated to magnetic contacts in the
                         corners of the pyramids.
                     </p>
 
@@ -52,12 +52,11 @@
                         cables or buttons.
                     </p>
                     <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
-                        "I may have dropped the transistors, but you blew up the batteries"
+                        
                         <hr>
-                        <span class="bc-span">P.H.R. Meulendijks</span>
                     </blockquote>
                     <p>
-                        Due to the size and shape of the speakers, it was necessary to transfer from the regular Arduino Uno to a smaller scaled Arduino Mini. Next to this the circuit boards needed to be small enough to fit in the pyramids, while retaining enough space to hold the amplifiers and other components. For this I made custom circuit boards.
+                        Due to the size and shape of the speakers, it was necessary to transfer from the regular Arduino Uno to a smaller scaled Arduino Mini. The circuit boards also needed to be small enough to fit in the pyramids, while retaining enough space to hold the amplifiers and other components. For this I made custom circuit boards.
                     </p>
                     <img src="/storage/mugen-detail-5.png" alt="" class='detail-image lazy' style="filter:invert(100%)" data-aos="fade" data-aos-duration="2500" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                     <span>Custom printed circuit board layout for Mugen controller</span>
