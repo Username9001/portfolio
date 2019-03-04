@@ -78,10 +78,10 @@ ob_start("ob_gzhandler");
     // Service Worker
     if ('serviceWorker' in navigator) {
         console.log('CLIENT: service worker registration in progress.');
-        navigator.serviceWorker.register('./service-worker.js').then(function() {
+        navigator.serviceWorker.register('/service-worker.js').then(function() {
             console.log('CLIENT: service worker registration complete.');
         });
     } 
-</script>
+    </script>
 
 </html>
