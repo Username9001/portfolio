@@ -32,12 +32,12 @@
                 Helios was designed to be an intuitive way of controlling the lighting within a shared environemnt.
                 Using gestures to assign lighting schemes to parts of the room, you control your own part of the area.
             </p>
-            <img src="/storage/helios-detail.jpg" alt="" class='detail-image' style="object-fit:cover; height: 300px;" data-aos="fade" data-aos-duration="3000" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
+            <img src="/storage/helios-detail.jpg" alt="" class='detail-image lazy' style="object-fit:cover; height: 300px;" data-aos="fade" data-aos-duration="3000" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
             <span>Helios close up</span>
             <p>
                 The final form of the Helios panel mirrors the sun, displaying straight lines centered from within, creating a bird's eye view from the room reflected in the panel.
             </p>
-            <img src="/storage/helios-detail-6.jpg" alt="" class='detail-image' style="height: 480px;" data-aos="fade" data-aos-duration="3000" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
+            <img src="/storage/helios-detail-6.jpg" alt="" class='detail-image lazy' style="height: 480px;" data-aos="fade" data-aos-duration="3000" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
             <span>Fully functional</span>
             <p>
                 The system works using a Leap Motion technology to track your gestures and sends this information through the panel to the Philips Hue System.
@@ -47,7 +47,7 @@
                 <hr>
                 <span class="bc-span">Confused user during interview</span>
             </blockquote>
-            <img src="/storage/helios-detail-4.jpg" alt="" class='detail-image' data-aos="fade-right" data-aos-duration="3000" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
+            <img src="/storage/helios-detail-4.jpg" alt="" class='detail-image lazy' data-aos="fade-right" data-aos-duration="3000" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
             <span>Helios at a demonstration</span>
             <div class="responsibilities">
                 <h3>Responsibilities</h3>

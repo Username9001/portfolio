@@ -26,7 +26,7 @@
                 <hr>
                 <span class="bc-span">project description</span>
             </blockquote>
-            <img src="/storage/holdie-detail-3.jpg" alt="" class='detail-image' data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" />
+            <img src="/storage/holdie-detail-3.jpg" alt="" class='detail-image lazy' data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" />
             <hr>
             <span>Detail of Holdie the pencil holder</span>
             <div>
@@ -45,7 +45,7 @@
                 </p>
             </div>
             <div data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
-                <img src="/storage/holdie-detail-5.jpg" alt="" class='detail-image' style="object-fit: cover;height: 280px;">
+                <img src="/storage/holdie-detail-5.jpg" alt="" class='detail-image lazy' style="object-fit: cover;height: 280px;">
                 <span>More detail description</span>
             </div>
                 <p>
@@ -54,7 +54,7 @@
             <blockquote data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                 "Long forgotten, in a corner of your desk, stands Holdie..."
                 <hr>
-                <img src="/storage/holdie-detail-4.jpg" alt="" class='detail-image' style="max-width:50%; float:right;">
+                <img src="/storage/holdie-detail-4.jpg" alt="" class='detail-image lazy' style="max-width:50%; float:right;">
             </blockquote>
             <div>
                 <p>
@@ -62,7 +62,7 @@
                 </p>
             </div>
             <div data-aos="fade-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
-                <img src="/storage/holdie-detail.jpg" alt="" class='detail-image'>
+                <img src="/storage/holdie-detail.jpg" alt="" class='detail-image lazy'>
                 <span class="right">text</span>
             </div>
             <div class="responsibilities">

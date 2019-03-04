@@ -14,11 +14,11 @@
                     <span class="right">clickbaitwarez.com webshop main page</span>
                 </div>
                 <div class="slides car-fade">
-                    <img src="/storage/screenshots/CB_product.png" alt="" class='detail-image'>
+                    <img src="/storage/screenshots/CB_product.png" alt="" class='detail-image lazy'>
                     <span class="right">clickbaitwarez.com webshop product page</span>
                 </div>
                 <div class="slides car-fade">
-                    <img src="/storage/screenshots/CB_cart.png" alt="" class='detail-image'>
+                    <img src="/storage/screenshots/CB_cart.png" alt="" class='detail-image lazy'>
                     <span class="right">clickbaitwarez.com webshop shopping cart page</span>
                 </div>
                 <!-- Next and previous buttons -->

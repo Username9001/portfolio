@@ -46,10 +46,10 @@
             <p>
                 These tools work together on the OOCSI network, where they can communicate and let the players have a constant thread running through the areas.
             </p>
-            <img src="/storage/escaperoom-detail-4.jpg" alt="" class='detail-image'>
+            <img src="/storage/escaperoom-detail-4.jpg" alt="" class='detail-image lazy'>
             <span style="padding-bottom:20px;">empty escape room</span>
 
-            <img src="/storage/escaperoom-detail-2.jpg" alt="" class='detail-image'>
+            <img src="/storage/escaperoom-detail-2.jpg" alt="" class='detail-image lazy'>
             <span>full escape room</span>
             <p>
                 The goal for the players is to decide whether to trust the cyborg or the AI or none of the above, and pick the right phone number accordingly. During this they are faced with other challenges such as a seemingly dead cyborg in the middle of the room. 
@@ -59,7 +59,7 @@
                 <hr>
                 <span>Response of dialing the wrong number</span>
                 <hr>
-                <img src="/storage/escaperoom-detail.jpg" alt="" class='detail-image' style="width:40%; margin-left:0;">
+                <img src="/storage/escaperoom-detail.jpg" alt="" class='detail-image lazy' style="width:40%; margin-left:0;">
                 <hr>
                 <span>instructions</span>
             </blockquote>

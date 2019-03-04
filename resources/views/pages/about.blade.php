@@ -32,7 +32,7 @@
             <img src="/storage/profiel4.jpg" class="profile" alt="">
         </div>
         <div class="block-3" data-aos="fade-up-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
-            <img src="/storage/profiel-extra.jpg" class="profile2" alt="">
+            <img src="/storage/profiel-extra.jpg" class="profile2 lazy" alt="">
         </div>
     </div>
     <div class="contact-info">

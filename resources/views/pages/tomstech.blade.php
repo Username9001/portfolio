@@ -14,11 +14,11 @@
                     <span class="right">tomstech.nl technology blog main page</span>
                 </div>
                 <div class="slides car-fade">
-                    <img src="/storage/screenshots/TT_article.png" alt="" class='detail-image'>
+                    <img src="/storage/screenshots/TT_article.png" alt="" class='detail-image lazy'>
                     <span class="right">tomstech.nl technology blog individual article page</span>
                 </div>
                 <div class="slides car-fade">
-                    <img src="/storage/screenshots/TT_category.png" alt="" class='detail-image'>
+                    <img src="/storage/screenshots/TT_category.png" alt="" class='detail-image lazy'>
                     <span class="right">tomstech.nl technology blog category page</span>
                 </div>
                 <!-- Next and previous buttons -->

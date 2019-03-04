@@ -43,7 +43,7 @@
                         <hr>
                         <span class="bc-span">User during interview</span>
                     </blockquote>
-                    <img src="/storage/mugen-detail-4.jpg" alt="" class='detail-image'>
+                    <img src="/storage/mugen-detail-4.jpg" alt="" class='detail-image lazy'>
                     <span>New span to give detailed description</span>
                     <p>
                         By rotating the speakers outwards, the volume increases. Rotate them inwards to close and the music eventually stops.
@@ -59,7 +59,7 @@
                     <p>
                         Due to the size and shape of the speakers, it was necessary to transfer from the regular Arduino Uno to a smaller scaled Arduino Mini. Next to this the circuit boards needed to be small enough to fit in the pyramids, while retaining enough space to hold the amplifiers and other components. For this I made custom circuit boards.
                     </p>
-                    <img src="/storage/mugen-detail-5.png" alt="" class='detail-image' style="filter:invert(100%)" data-aos="fade" data-aos-duration="2500" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
+                    <img src="/storage/mugen-detail-5.png" alt="" class='detail-image lazy' style="filter:invert(100%)" data-aos="fade" data-aos-duration="2500" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                     <span>Custom printed circuit board layout for Mugen controller</span>
                     <video controls="controls" id="mugen-video" data-aos="zoom-in-down" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
                         <source src="/storage/mugen-video.mp4" type="video/mp4">
@@ -67,7 +67,7 @@
                     <p>
                         The Mugen speakers give a haptic enhancement to the volume when you rotate it, as seen above. When two speakers move towards each other, the volume goes down and eventually when they touch and close, the volume drops to zero.
                     </p>
-                    <img src="/storage/mugen-detail.jpg" alt="" class='detail-image'>
+                    <img src="/storage/mugen-detail.jpg" alt="" class='detail-image lazy'>
                     <span>Mugen being used during a bbq</span>
                     <div class="responsibilities">    
                         <h3>Responsibilities</h3>

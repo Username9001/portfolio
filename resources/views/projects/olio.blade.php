@@ -37,7 +37,7 @@
                         Assuming there would be diverse and opinionated people in student houses, 
                         it was chosen as the research environment.
                     </p>
-                    <img src="/storage/olio-detail.jpg" alt="" class='detail-image' />
+                    <img src="/storage/olio-detail.jpg" alt="" class='detail-image lazy' />
                     <span>Olio with all six tokens</span>
                     <p>
                         Olio is a social persuasive system, meant to trigger communication
@@ -57,7 +57,7 @@
                         The system is easy to use and relatively unobtrusive on it's own. 
                         This however changes when the particpants start to use it.
                     </p>
-                    <img src="/storage/olio-detail-2.jpg" alt="" class='detail-image'/>
+                    <img src="/storage/olio-detail-2.jpg" alt="" class='detail-image lazy'/>
                     <span>Research environment</span>
                         <p>
                             Olio was tested in two different student households with a
@@ -69,14 +69,14 @@
                             "I use Olio everywhere"
                             <hr>
                             <span class="bc-span">Participant</span>
-                            <img src="/storage/olio-detail-4.jpg" alt="" class='detail-image' />
+                            <img src="/storage/olio-detail-4.jpg" alt="" class='detail-image lazy' />
                             <span>Token in the kitchen</span>
                         </blockquote>
                         <p>
                             The results show an increase in awareness of the mess being
                             made and showed Olio as a trigger of discussions within the group about clutter.
                         </p>
-                        <img src="/storage/olio-detail-5.jpg" alt="" class='detail-image'/>
+                        <img src="/storage/olio-detail-5.jpg" alt="" class='detail-image lazy'/>
                         <span>Token on the stove</span>
                         <div class="responsibilities">
                             <h3>Responsibilities</h3>

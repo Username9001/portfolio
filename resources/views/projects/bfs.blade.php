@@ -23,7 +23,7 @@
             <p>
                 In this course I learned about formgiving skills. Through ideation of form and critically arguing my choices and creating these forms in a short amount of time.
             </p>
-            <img src="/storage/bfs-detail.jpg" alt="" class='detail-image' data-aos="fade" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
+            <img src="/storage/bfs-detail.jpg" alt="" class='detail-image lazy' data-aos="fade" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
             <span>Socket based on cube & sphere</span>
             <p>
                 During the course I made four objects, each within one or two weeks. Starting out horribly I made some decent progress towards the end. Below are the assignments final deliverables.
@@ -31,22 +31,22 @@
             <div class="shift-left">
                 <blockquote data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                     Socket Copy
-                        <img src="/storage/bfs-detail-2.jpg" alt="" class='detail-image'>
+                        <img src="/storage/bfs-detail-2.jpg" alt="" class='detail-image lazy'>
                         <span class="right">Deliverable 1: Copying an existing socket shape</span>
                 </blockquote>
                 <blockquote style="margin-left:15%;" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                     Form Combination
-                        <img src="/storage/bfs-detail-3.jpg" alt="" class='detail-image'>
+                        <img src="/storage/bfs-detail-3.jpg" alt="" class='detail-image lazy'>
                         <span class="right">Deliverable 2: Combine two shapes into a coherent shape. Combined a box with a cilinder, adding a lip for flow.</span>
                 </blockquote>
                 <blockquote style="margin-left:30%;" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                     Form Copies in Different Materials
-                        <img src="/storage/bfs-detail-4.jpg" alt="" class='detail-image'>
+                        <img src="/storage/bfs-detail-4.jpg" alt="" class='detail-image lazy'>
                         <span class="right">Deliverable 3: Copying a single shape in different materials. Materials used: Stone, Wood, Aluminium</span>
                     </blockquote>                
                 <blockquote style="margin-left:45%;" data-aos="fade-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom" >
                     Design a socket
-                        <img src="/storage/bfs-detail-5.jpg" alt="" class='detail-image'>
+                        <img src="/storage/bfs-detail-5.jpg" alt="" class='detail-image lazy'>
                         <span class="right">Deliverable 4: This socket is the combination of two essential spacial shapes, the cube and the sphere. Made robust to withstand the clumsiness people experience when plugging their electronics in sockets.</span>
                 </blockquote>
             </div>
