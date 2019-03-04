@@ -69,9 +69,6 @@
                     </p>
                     <img src="/storage/mugen-detail.jpg" alt="" class='detail-image'>
                     <span>Mugen being used during a bbq</span>
-                    <a href="https://github.com/Username9001/mugen/blob/master/Mugen_arduino.ino" target="_blank" rel="noopener noreferrer">
-                        <button>Code</button>
-                    </a>
                     <div class="responsibilities">    
                         <h3>Responsibilities</h3>
                         <ul class="resp-list">
@@ -80,6 +77,10 @@
                             <li>Creating custom circuit boards</li>
                         </ul>
                     </div>
+                    <a href="https://github.com/Username9001/mugen/blob/master/Mugen_arduino.ino" target="_blank" rel="noopener noreferrer">
+                        <button>Code</button>
+                    </a>
+     
                     <a href="/storage/reports/mugen-report.pdf" download>
                         <button>
                             <h3>Report</h3>
