@@ -8,7 +8,6 @@ const RUNTIME = 'runtime';
 const PRECACHE_URLS = [
 //   'index.html',
   '/', // Alias for index.html
-  '/projects/holdie',
   '/css/app.css',
   '/css/aos.css',
   '/js/app.js',
