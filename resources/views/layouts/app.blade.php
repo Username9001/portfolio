@@ -67,4 +67,12 @@ ob_start("ob_gzhandler");
 
     <script src="{!! asset('/js/app.js') !!}"></script>
 
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.4/jquery.lazy.min.js"></script>
+    <script>
+        $(function() {
+            $('.lazy').lazy();
+        });
+    </script>
+
+
 </html>
