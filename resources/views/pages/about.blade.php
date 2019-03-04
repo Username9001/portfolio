@@ -22,7 +22,7 @@
             <p class="right" style="padding-top:35px;">
                     Applying this to web development, I have made websites to track my study progress, using simple html pages. Last year I took this a step further and started teaching myself to work with php and mysql. I have developed a webshop for a fashion designer and a blog for a technology journalist.
             </p>
-            <blockquote class="right">
+            <blockquote class="right shift-quote">
                 "Why won't it respond, and why is the server kicking us out over and over again?"
                 <hr>
                 <span class="bc-span">Me, While Overloading The Servers In Dublin</span>
@@ -132,6 +132,11 @@
         }
         .left-quote {
             margin-left: -14%;
+        }
+        .shift-quote {
+            margin-left: -20%;
+            width: 100%;
+            float: none;
         }
     }
 
