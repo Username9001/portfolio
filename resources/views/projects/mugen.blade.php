@@ -58,7 +58,7 @@
                     <p>
                         Due to the size and shape of the speakers, it was necessary to transfer from the regular Arduino Uno to a smaller scaled Arduino Mini. The circuit boards also needed to be small enough to fit in the pyramids, while retaining enough space to hold the amplifiers and other components. For this I made custom circuit boards.
                     </p>
-                    <img src="/storage/mugen-detail-5.png" alt="" class='detail-image lazy' style="filter:invert(100%)" data-aos="fade" data-aos-duration="2500" data-aos-easing="ease-in-out" data-aos-anchor-placement="center-bottom">
+                    <img src="/storage/mugen-detail-5.png" alt="" class='detail-image lazy' style="filter:invert(100%);max-width:80%;" data-aos="fade" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
                     <span>Custom printed circuit board layout for Mugen controller</span>
                   
                     <p>
