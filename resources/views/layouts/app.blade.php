@@ -21,7 +21,7 @@ ob_start("ob_gzhandler");
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 
         {{-- Google Analytics --}}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106607115-2"></script>
+        <script preconnect async src="https://www.googletagmanager.com/gtag/js?id=UA-106607115-2"></script>
         <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
