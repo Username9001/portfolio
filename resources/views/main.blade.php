@@ -15,42 +15,42 @@
     <div id="projects" class="project-block">
         <h2 class="id-projects-title">Industrial Design</h2>
         <div class="project-grid">
-            <a href="/projects/holdie" id="holdie-project" class="project-item project-item1 lazy"  data-aos="fade-up-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+            <a href="/projects/holdie" id="holdie-project" class="project-item project-item1 lazy"  data-aos="fade-up" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
                 <div class="text-block">
                     <h2>Holdie</h2>
                     <hr>
                     <p>Responsive Pencil Holder</p>
                 </div>
             </a>
-            <a href="/projects/helios" id="helios-project" class="project-item project-item2 lazy" data-aos="fade-down" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+            <a href="/projects/helios" id="helios-project" class="project-item project-item2 lazy" data-aos="fade-up" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
                 <div class="text-block">
                     <h2>Helios</h2>
                     <hr>
                     <p>Interactive Lighting Control</p>
                 </div>
             </a>
-            <a href="/projects/mugen" id="mugen-project" class="project-item project-item3 lazy" data-aos="fade-down-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+            <a href="/projects/mugen" id="mugen-project" class="project-item project-item3 lazy" data-aos="fade-down" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
                 <div class="text-block">
                     <h2>Mugen</h2>
                     <hr>
                     <p>Haptic Speakers</p>
                 </div>
             </a>       
-            <a href="/projects/olio" id="olio-project" class="project-item project-item4 lazy" data-aos="fade-up" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+            <a href="/projects/olio" id="olio-project" class="project-item project-item4 lazy" data-aos="fade-down" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
                 <div class="text-block">
                     <h2>Olio</h2>
                     <hr>
                     <p>Nudging Research</p>
                 </div>
             </a>
-            <a href="/projects/bfs" id="test1-project" class="project-item project-item5 lazy" data-aos="fade-down-right" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+            <a href="/projects/bfs" id="test1-project" class="project-item project-item5 lazy" data-aos="fade-down" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
                 <div class="text-block">
                     <h2>Formgiving</h2>
                     <hr>
-                    <p>Fundamental Form Study</p>
+                    <p>Form Study</p>
                 </div>
             </a>              
-            <a href="/projects/escaperoom" id="escaperoom-project" class="project-item project-item6 lazy" data-aos="fade-up-left" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+            <a href="/projects/escaperoom" id="escaperoom-project" class="project-item project-item6 lazy" data-aos="fade-up" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
                 <div class="text-block">
                     <h2>Escape Room</h2>
                     <hr>
