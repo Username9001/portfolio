@@ -1,7 +1,9 @@
 window.$ = window.jQuery = require('jquery');
 
 import AOS from 'aos';
-AOS.init();
+AOS.init({
+    disable: 'phone'
+});
 
 import Typewriter from 'typewriter-effect/dist/core';
 
