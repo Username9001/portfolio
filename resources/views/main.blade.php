@@ -22,7 +22,7 @@
                     <p>Responsive Pencil Holder</p>
                 </div>
             </a>
-            <a href="/projects/helios" id="helios-project" class="project-item project-item2 lazy" data-aos="fade-up" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+            <a href="/projects/helios" id="helios-project" class="project-item project-item2 lazy" data-aos="fade-up" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
                 <div class="text-block">
                     <h2>Helios</h2>
                     <hr>
@@ -36,7 +36,7 @@
                     <p>Haptic Speakers</p>
                 </div>
             </a>       
-            <a href="/projects/olio" id="olio-project" class="project-item project-item4 lazy" data-aos="fade-down" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+            <a href="/projects/olio" id="olio-project" class="project-item project-item4 lazy" data-aos="fade-down" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
                 <div class="text-block">
                     <h2>Olio</h2>
                     <hr>
