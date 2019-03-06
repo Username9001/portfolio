@@ -15,14 +15,14 @@
     <div id="projects" class="project-block">
         <h2 class="id-projects-title">Industrial Design</h2>
         <div class="project-grid">
-            <a href="/projects/holdie" id="holdie-project" class="project-item project-item1 lazy"  data-aos="fade-up" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+            <a href="/projects/holdie" id="holdie-project" class="project-item project-item1 lazy"  data-aos="fade-down" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
                 <div class="text-block">
                     <h2>Holdie</h2>
                     <hr>
                     <p>Responsive Pencil Holder</p>
                 </div>
             </a>
-            <a href="/projects/helios" id="helios-project" class="project-item project-item2 lazy" data-aos="fade-up" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
+            <a href="/projects/helios" id="helios-project" class="project-item project-item2 lazy" data-aos="fade-down" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom">
                 <div class="text-block">
                     <h2>Helios</h2>
                     <hr>
@@ -50,7 +50,7 @@
                     <p>Form Study</p>
                 </div>
             </a>              
-            <a href="/projects/escaperoom" id="escaperoom-project" class="project-item project-item6 lazy" data-aos="fade-up" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
+            <a href="/projects/escaperoom" id="escaperoom-project" class="project-item project-item6 lazy" data-aos="fade-down" data-aos-duration="1400" data-aos-easing="ease-in-out" data-aos-anchor-placement="top-bottom" data-aos-delay="300">
                 <div class="text-block">
                     <h2>Escape Room</h2>
                     <hr>
