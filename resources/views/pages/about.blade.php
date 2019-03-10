@@ -51,8 +51,6 @@
         </ul>
         <ul class="contact-details">
             <li><a href = "mailto: erik.wubbels@gmail.com">erik.wubbels@gmail.com</a></li>
-            <li>0636328417</li>
-            {{-- <li><a href="https://www.facebook.com/ErikWubbelsFotografie">Facebook</a></li> --}}
         </ul>
     </div>
 
