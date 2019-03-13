@@ -36,16 +36,27 @@
         </div>
     </div>
     <div class="contact-info">
+
+        <ul class="web-dev-list" style="padding-top:30px;">
+            <li style="display:inline;"><img class="social-icon" src="/storage/icons/css3-brands.svg" style="max-width:90px;"></li>
+            <li style="display:inline;"><img class="social-icon" src="/storage/icons/html5-brands.svg" style="max-width:90px;"></li>
+            <li style="display:inline;"><img class="social-icon" src="/storage/icons/js-square-brands.svg" style="max-width:90px;"></li>
+            <li style="display:inline;"><img class="social-icon" src="/storage/icons/php-brands.svg" style="max-width:90px;"></li>
+            <li style="display:inline;"><img class="social-icon" src="/storage/icons/wordpress-brands.svg" style="max-width:90px;"></li>
+            <li style="display:inline;"><img class="social-icon" src="/storage/icons/magento-brands.svg" style="max-width:90px;"></li>
+            <li style="display:inline;"><img class="social-icon" src="/storage/icons/laravel-brands.svg" style="max-width:90px;"></li>
+        </ul>
+        
         <h3>Feel free to contact me</h3>
         <ul class="links-out">
             <li>
                 <a href="https://www.linkedin.com">
-                    <img class="social-icon" src="/storage/linkedin-brands.svg" alt="github link" style="max-width:90px;">&nbsp;
+                    <img class="social-icon" src="/storage/icons/linkedin-brands.svg" alt="github link" style="max-width:90px;">&nbsp;
                 </a>
             </li>
             <li>
                 <a href="https://github.com/Username9001">
-                    <img class="social-icon" src="/storage/github-brands.svg" alt="github link" style="max-width:90px;">&nbsp;&nbsp;
+                    <img class="social-icon" src="/storage/icons/github-brands.svg" alt="github link" style="max-width:90px;">&nbsp;&nbsp;
                 </a>
             </li>
         </ul>
