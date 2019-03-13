@@ -38,13 +38,14 @@
     <div class="contact-info">
 
         <ul class="web-dev-list" style="padding-top:30px;">
-            <li style="display:inline;"><img class="social-icon" src="/storage/icons/css3-brands.svg" style="max-width:90px;"></li>
-            <li style="display:inline;"><img class="social-icon" src="/storage/icons/html5-brands.svg" style="max-width:90px;"></li>
-            <li style="display:inline;"><img class="social-icon" src="/storage/icons/js-square-brands.svg" style="max-width:90px;"></li>
-            <li style="display:inline;"><img class="social-icon" src="/storage/icons/php-brands.svg" style="max-width:90px;"></li>
-            <li style="display:inline;"><img class="social-icon" src="/storage/icons/wordpress-brands.svg" style="max-width:90px;"></li>
-            <li style="display:inline;"><img class="social-icon" src="/storage/icons/magento-brands.svg" style="max-width:90px;"></li>
-            <li style="display:inline;"><img class="social-icon" src="/storage/icons/laravel-brands.svg" style="max-width:90px;"></li>
+            <li><img class="web-dev-icon" src="/storage/icons/css3-brands.svg"></li>
+            <li><img class="web-dev-icon" src="/storage/icons/html5-brands.svg"></li>
+            <li><img class="web-dev-icon" src="/storage/icons/js-square-brands.svg"></li>
+            <li><img class="web-dev-icon" src="/storage/icons/vuejs-brands.svg"></li>
+            <li><img class="web-dev-icon" src="/storage/icons/php-brands.svg"></li>
+            <li><img class="web-dev-icon" src="/storage/icons/wordpress-brands.svg"></li>
+            <li><img class="web-dev-icon" src="/storage/icons/magento-brands.svg"></li>
+            <li><img class="web-dev-icon" src="/storage/icons/laravel-brands.svg"></li>
         </ul>
         
         <h3>Feel free to contact me</h3>

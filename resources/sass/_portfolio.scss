@@ -346,6 +346,18 @@
         font-size: 4rem;
         padding: 15px;
     }
+    .web-dev-list {
+        padding-top: 30px;
+    }
+    .web-dev-list li {
+        display: inline;
+    }
+    .web-dev-icon {
+        margin: 10px;
+        max-width: 90px;
+        max-height: 80px;
+        filter: invert(100%);
+    }
     .TT-logo, .social-icon {
         max-width: 100px;
         max-height: 80px;
