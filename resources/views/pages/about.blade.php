@@ -37,8 +37,9 @@
     </div>
     <div class="contact-info">
 
-        <ul class="web-dev-list" style="padding-top:30px;">
+        {{-- <ul class="web-dev-list" style="padding-top:30px;">
             <li><img class="web-dev-icon" src="/storage/icons/css3-brands.svg"></li>
+            <li><img class="web-dev-icon" src="/storage/icons/sass-brands.svg"></li>
             <li><img class="web-dev-icon" src="/storage/icons/html5-brands.svg"></li>
             <li><img class="web-dev-icon" src="/storage/icons/js-square-brands.svg"></li>
             <li><img class="web-dev-icon" src="/storage/icons/vuejs-brands.svg"></li>
@@ -46,7 +47,7 @@
             <li><img class="web-dev-icon" src="/storage/icons/wordpress-brands.svg"></li>
             <li><img class="web-dev-icon" src="/storage/icons/magento-brands.svg"></li>
             <li><img class="web-dev-icon" src="/storage/icons/laravel-brands.svg"></li>
-        </ul>
+        </ul> --}}
         
         <h3>Feel free to contact me</h3>
         <ul class="links-out">
